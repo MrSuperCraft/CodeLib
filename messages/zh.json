@@ -1,0 +1,253 @@
+{
+    "header": {
+        "main_menu": "主菜单",
+        "home": "家",
+        "about": "关于",
+        "services": "服务",
+        "contact": "接触",
+        "get_started": "开始使用",
+        "privacy_policy": "隐私政策",
+        "terms_and_conditions": "条款和条件",
+        "phone_contact": "接触",
+        "brand": {
+            "title": "代码库",
+            "tagline": "使代码片段易于访问"
+        }
+    },
+    "footer": {
+        "brand": "代码库",
+        "links": {
+            "contact": "接触",
+            "privacy": "隐私政策",
+            "terms": "服务条款"
+        },
+        "social": {
+            "twitter": "叽叽喳喳",
+            "linkedin": "领英"
+        },
+        "copyright": "© 2023 CodeLib。",
+        "developer": "伊塔玛·哈南"
+    },
+    "hero": {
+        "welcome": "欢迎来到代码库",
+        "sub": "您的首选代码片段管理器",
+        "cta": "开始使用",
+        "stats": {
+            "snippets": "代码片段",
+            "users": "用户",
+            "lines": "已保存的代码行"
+        }
+    },
+    "about": {
+        "title": "关于CodeLib",
+        "p1": "在 CodeLib，我们的使命是让编码变得更加高效和愉快。",
+        "p2": "CodeLib 具有直观的界面和强大的功能，旨在成为您的终极编码伴侣，帮助您专注于您最擅长的事情 - 编写出色的代码。",
+        "learn_more": "了解更多",
+        "our_mission": "我们的使命"
+    },
+    "features": {
+        "title": "特征",
+        "feature1": {
+            "title": "代码管理",
+            "description": "有效地管理和组织您的代码片段。"
+        },
+        "feature2": {
+            "title": "云同步",
+            "description": "在所有设备上无缝同步您的片段。"
+        },
+        "feature3": {
+            "title": "加强协作",
+            "description": "分享您的代码片段并轻松与您的团队协作。"
+        },
+        "feature4": {
+            "title": "自定义标签",
+            "description": "对您的片段进行标记和分类以便于检索。"
+        },
+        "feature5": {
+            "title": "高级搜索",
+            "description": "使用我们强大的搜索功能快速找到您的片段。"
+        },
+        "feature6": {
+            "title": "跨平台支持",
+            "description": "随时从任何设备访问您的代码片段。"
+        }
+    },
+    "testimonials": {
+        "title": "我们的用户怎么说",
+        "testimonial1": {
+            "quote": "CodeLib 彻底改变了我的编码工作流程。",
+            "name": "简·无名氏",
+            "position": "开发商"
+        },
+        "testimonial2": {
+            "quote": "每个程序员必备的工具。",
+            "name": "约翰·史密斯",
+            "position": "工程师"
+        },
+        "testimonial3": {
+            "quote": "用于有效管理代码片段的令人难以置信的工具。",
+            "name": "爱丽丝·约翰逊",
+            "position": "软件架构师"
+        },
+        "testimonial4": {
+            "quote": "我喜欢与我的工作流程无缝集成。",
+            "name": "鲍勃·布朗",
+            "position": "技术主管"
+        },
+        "testimonial5": {
+            "quote": "现代开发实践的重要工具。",
+            "name": "艾米丽·戴维斯",
+            "position": "前端开发人员"
+        },
+        "testimonial6": {
+            "quote": "非常适合与团队组织和共享代码。",
+            "name": "迈克尔·威尔逊",
+            "position": "后端开发人员"
+        },
+        "testimonial7": {
+            "quote": "我发现的最好的片段管理工具。",
+            "name": "莎拉·李",
+            "position": "全栈开发人员"
+        },
+        "testimonial8": {
+            "quote": "用户友好且高效。",
+            "name": "克里斯·马丁",
+            "position": "用户界面/用户体验设计师"
+        },
+        "testimonial9": {
+            "quote": "CodeLib 是生产力的游戏规则改变者。",
+            "name": "娜塔莉·格林",
+            "position": "专案经理"
+        },
+        "testimonial10": {
+            "quote": "高效直观的界面。",
+            "name": "大卫·克拉克",
+            "position": "开发运营工程师"
+        }
+    },
+    "callToAction": {
+        "title": "准备好开始了吗？",
+        "description": "立即加入 CodeLib，使用我们强大的代码片段管理工具简化您的编码体验。",
+        "button": "开始使用",
+        "note": "无需信用卡。"
+    },
+    "themes": {
+        "toggle_theme": "切换主题",
+        "light": "光",
+        "dark": "黑暗的",
+        "system": "系统"
+    },
+    "get_started": {
+        "title": "代码库",
+        "description": "组织您的代码，简化您的工作流程。",
+        "join_text": "加入已使用 CodeLib 的数千名开发人员的行列。",
+        "login": "登录",
+        "signup": "报名",
+        "email_placeholder": "john.doe@example.com",
+        "password_placeholder": "******",
+        "or": "或者",
+        "github_signin": "使用 GitHub 登录",
+        "google_signin": "使用 Google 登录",
+        "toggle_login_signup": {
+            "signup": "需要帐户吗？",
+            "login": "已经有帐户？"
+        }
+    },
+    "LocaleSwitcher": {
+        "label": "更改语言",
+        "locale": "{locale, select, de {Deutsch} en {English} fr {Français} es {Español} it {Italiano} pt {Português} nl {Nederlands} ru {Русский} zh {中文} ja {日本语} ko {한국어} other {Langue inconnue}}"
+    },
+    "TermsOfService": "<h2><strong>条款和条件</strong></h2> <p>欢迎来到代码库！</p> <p>这些条款和条件概述了使用 CodeLib 网站的规则和规定，位于 <a href=\"https://CodeLib.vercel.app\">这里</a>。</p> <p>通过访问本网站，我们假设您接受这些条款和条件。</p> <p>以下术语适用于这些条款和条件、隐私声明和免责声明以及所有协议：“客户”、“您”和“您的”是指您、登录本网站并遵守公司条款和条件的人。 </p> <h3><strong>曲奇饼</strong></h3> <p>我们使用 cookie。</p> <p>大多数交互式网站都使用 cookie 来让我们检索用户每次访问的详细信息。</p> <h3><strong>执照</strong></h3> <p>除非另有说明，CodeLib 和/或其许可方拥有 CodeLib 上所有材料的知识产权。</p> <p>您不得：</p><ul><li>从 CodeLib 重新发布材料</li><li>出售、出租或再许可 CodeLib 中的材料</li><li>从 CodeLib 复制、复制或复制材料</li><li>重新分发 CodeLib 中的内容</li></ul> <p>本网站的某些部分为用户提供了在网站某些区域发布和交换意见和信息的机会。 </p> <p>CodeLib 保留监控所有评论并删除任何可能被视为不当、冒犯或导致违反这些条款和条件的评论的权利。</p> <p>您保证并声明：</p><ul><li>您有权在我们的网站上发布评论，并拥有所有必要的许可和同意；</li><li>该评论不侵犯任何知识产权，包括但不限于任何第三方的版权、专利或商标；</li><li>评论不包含任何诽谤、诽谤、冒犯、不雅或其他侵犯隐私的非法材料</li><li>该评论不会用于招揽或促进业务或习俗或呈现商业活动或非法活动。</li></ul> <p>您特此授予 CodeLib 非独占许可，以使用、复制、编辑并授权其他人以任何及所有形式、格式或媒体使用、复制和编辑您的任何评论。</p> <h3><strong>超链接到我们的内容</strong></h3> <p>以下组织可以在未经事先书面批准的情况下链接到我们的网站：</p><ul><li>政府机构；</li><li>搜索引擎；</li><li>新闻机构；</li><li>在线目录分发者可以像超链接到其他列出的企业的网站一样链接到我们的网站；</li><li>系统范围内认可的企业，但募集非营利组织、慈善购物中心和慈善筹款团体除外，这些组织不得超链接到我们的网站。</li></ul> <p>这些组织可以链接到我们的主页、出版物或其他网站信息，只要链接： (a) 不以任何方式具有欺骗性； </p> <p>我们可能会考虑并批准来自以下类型组织的其他链接请求：</p><ul><li>众所周知的消费者和/或商业信息源；</li><li>dot.com 社区网站；</li><li>代表慈善机构的协会或其他团体；</li><li>在线目录分销商；</li><li>互联网门户网站；</li><li>会计、法律和咨询公司；</li><li>教育机构和行业协会。</li></ul> <p>如果我们认为以下情况，我们将批准这些组织的链接请求： (a) 该链接不会让我们对自己或我们认可的企业产生不利的印象； </p> <p>这些组织可以链接到我们的主页，只要该链接： (a) 不具有任何欺骗性； </p> <p>如果您是上述第 2 段中列出的组织之一并且有兴趣链接到我们的网站，您必须通过向 CodeLib 发送电子邮件来通知我们。</p> <p>经批准的组织可以通过以下方式超链接到我们的网站：</p><ul><li>使用我们的公司名称；</li><li>通过使用链接到的统一资源定位符；</li><li>通过使用链接到的我们网站的任何其他描述，在链接方网站内容的上下文和格式中有意义。</li></ul> <p>如果没有商标许可协议，则不允许使用 CodeLib 的徽标或其他艺术品进行链接。</p> <h3><strong>iFrames</strong></h3> <p>未经事先批准和书面许可，您不得在我们的网页周围创建以任何方式改变我们网站的视觉呈现或外观的框架。</p> <h3><strong>内容责任</strong></h3> <p>我们不对您网站上出现的任何内容负责。</p> <h3><strong>您的隐私</strong></h3> <p>请阅读隐私政策，发现 <a href=\"https://CodeLib.vercel.app/privacy-policy\">这里</a>。</p> <h3><strong>权利保留</strong></h3> <p>我们保留要求您删除我们网站的所有链接或任何特定链接的权利。</p> <h3><strong>从我们的网站删除链接</strong></h3> <p>如果您在我们的网站上发现任何出于任何原因的攻击性链接，您可以随时联系并通知我们。</p> <p>我们不确保本网站信息的正确性，也不保证其完整性或准确性；</p> <h3><strong>免责声明</strong></h3> <p>在适用法律允许的最大范围内，我们排除与我们的网站和本网站的使用相关的所有陈述、保证和条件。</p><ul><li>限制或排除我们或您对死亡或人身伤害的责任；</li><li>限制或排除我们或您对欺诈或欺诈性失实陈述的责任；</li><li>以适用法律不允许的任何方式限制我们或您的任何责任；</li><li>排除我们或您根据适用法律不得排除的任何责任。</li></ul><p>本节和本免责声明其他部分规定的责任限制和禁止： (a) 受前一段的约束； </p><p>只要网站以及网站上的信息和服务是免费提供的，我们将不对任何性质的损失或损害承担责任。</p>",
+    "services-page": {
+        "hero": {
+            "title": "发现魔法",
+            "subtitle": "查看我们的服务，让编码世界变得更美好"
+        },
+        "services": {
+            "s1": {
+                "title": "高级搜索方法",
+                "description": "利用强大的搜索功能快速找到您的代码片段。",
+                "details": "按标签、类别和片段内容搜索。"
+            },
+            "s2": {
+                "title": "交互式仪表板",
+                "description": "访问动态仪表板，其中概述了您的代码片段和活动。",
+                "details": "实时了解您的片段，包括使用情况统计数据和最近的活动。"
+            },
+            "s3": {
+                "title": "综合设置",
+                "description": "通过多种设置定制您的体验。",
+                "details": "控制片段的呈现方式、设置更新通知以及轻松管理帐户设置。"
+            },
+            "s4": {
+                "title": "强大的认证系统",
+                "description": "体验安全高效的身份验证系统。 ",
+                "details": "利用各种身份验证方法，安全地管理您的凭据，并享受流畅的登录体验。"
+            },
+            "s5": {
+                "title": "增强的用户体验",
+                "description": "受益于精心设计的用户体验，优先考虑易用性和效率。",
+                "details": "我们的平台在设计时就以用户为中心，具有清晰的导航、响应式布局和用户友好的交互。"
+            },
+            "s6": {
+                "title": "片段组织和管理",
+                "description": "使用结构化文件夹系统有效管理和组织您的片段。",
+                "details": "创建文件夹和子文件夹、应用自定义标签并利用过滤器快速定位和管理您的片段。"
+            }
+        }
+    },
+    "about-page": {
+        "about": {
+            "heroTitle": "发现代码库",
+            "heroSubtitle": "探索 CodeLib 如何改变您的代码管理。",
+            "heroButton": "了解更多",
+            "storyTitle": "CodeLib 背后的故事",
+            "p1": "CodeLib 的诞生是为了创建一个强大且用户友好的工具来管理代码片段。",
+            "p2": "从想法到实施的过程既充满挑战又充满回报。",
+            "p3": "目前，CodeLib 正在积极开发中，不断改进并定期添加新功能。",
+            "p4": "感谢您访问 CodeLib。",
+            "featuresTitle": "主要特点",
+            "features": {
+                "feature1": {
+                    "title": "组织您的代码片段",
+                    "description": "使用灵活的基于文件夹的结构管理您的片段，以便轻松分类和检索。"
+                },
+                "feature2": {
+                    "title": "语法高亮",
+                    "description": "通过各种编程语言的语法突出显示增强可读性，使您的代码更易于理解和使用。"
+                },
+                "feature3": {
+                    "title": "用户友好的界面",
+                    "description": "体验干净直观的界面，专为简单和高效而设计，确保流畅的用户体验。"
+                },
+                "feature4": {
+                    "title": "实时编辑",
+                    "description": "受益于实时代码编辑和保存功能，让您可以立即进行更改并查看更新。"
+                },
+                "feature5": {
+                    "title": "无缝集成",
+                    "description": "轻松将 CodeLib 与您现有的工作流程集成，确保一个具有凝聚力和高效的编码环境。"
+                },
+                "feature6": {
+                    "title": "强大的搜索功能",
+                    "description": "使用支持按标签、名称和内容进行过滤的高级搜索功能快速查找您的片段。"
+                },
+                "feature7": {
+                    "title": "设备同步",
+                    "description": "通过多设备同步从任何地方访问您的代码片段，确保您始终拥有代码。"
+                }
+            }
+        },
+        "faqTitle": "常见问题 (FAQ)",
+        "faq": {
+            "question1": "什么是CodeLib？",
+            "answer1": "CodeLib 是一款旨在帮助开发人员高效管理和组织代码片段的工具。",
+            "question2": "我如何开始使用 CodeLib？",
+            "answer2": "您可以通过注册并创建您的第一个代码片段来开始。",
+            "question3": "CodeLib 可以免费使用吗？",
+            "answer3": "CodeLib 是对所有人免费的资源，在不久的将来不会被货币化。",
+            "question4": "我在哪里可以找到更多信息或支持？",
+            "answer4": "如需更多信息或支持，请访问我们的文档页面或通过我们的支持渠道直接联系我们。"
+        }
+    }
+}

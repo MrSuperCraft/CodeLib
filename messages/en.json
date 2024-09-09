@@ -1,0 +1,253 @@
+{
+    "header": {
+        "main_menu": "Main Menu",
+        "home": "Home",
+        "about": "About",
+        "services": "Services",
+        "contact": "Contact",
+        "get_started": "Get Started",
+        "privacy_policy": "Privacy Policy",
+        "terms_and_conditions": "Terms and Conditions",
+        "phone_contact": "Contact",
+        "brand": {
+            "title": "CodeLib",
+            "tagline": "Making Snippets Accessible"
+        }
+    },
+    "footer": {
+        "brand": "CodeLib",
+        "links": {
+            "contact": "Contact",
+            "privacy": "Privacy Policy",
+            "terms": "Terms of Service"
+        },
+        "social": {
+            "twitter": "Twitter",
+            "linkedin": "LinkedIn"
+        },
+        "copyright": "© 2023 CodeLib. All rights reserved. Developed by",
+        "developer": "Itamar Hanan"
+    },
+    "hero": {
+        "welcome": "Welcome to CodeLib",
+        "sub": "Your go-to code snippet manager",
+        "cta": "Get Started",
+        "stats": {
+            "snippets": "Code Snippets",
+            "users": "Users",
+            "lines": "Lines of Code Saved"
+        }
+    },
+    "about": {
+        "title": "About CodeLib",
+        "p1": "At CodeLib, we're on a mission to make coding more efficient and enjoyable. Our platform empowers developers to store, organize, and share their code snippets seamlessly. Whether you're working on a personal project or collaborating with a team, CodeLib provides the tools you need to streamline your workflow and enhance productivity.",
+        "p2": "With an intuitive interface and powerful features, CodeLib is designed to be your ultimate coding companion, helping you focus on what you do best — writing great code.",
+        "learn_more": "Learn More",
+        "our_mission": "Our Mission"
+    },
+    "features": {
+        "title": "Features",
+        "feature1": {
+            "title": "Code Management",
+            "description": "Efficiently manage and organize your code snippets."
+        },
+        "feature2": {
+            "title": "Cloud Sync",
+            "description": "Sync your snippets across all your devices seamlessly."
+        },
+        "feature3": {
+            "title": "Enhanced Collaboration",
+            "description": "Share your code snippets and collaborate with your team effortlessly."
+        },
+        "feature4": {
+            "title": "Custom Tags",
+            "description": "Tag and categorize your snippets for easy retrieval."
+        },
+        "feature5": {
+            "title": "Advanced Search",
+            "description": "Find your snippets quickly with our powerful search functionality."
+        },
+        "feature6": {
+            "title": "Cross-Platform Support",
+            "description": "Access your code snippets from any device, anytime."
+        }
+    },
+    "testimonials": {
+        "title": "What Our Users Say",
+        "testimonial1": {
+            "quote": "CodeLib has revolutionized my coding workflow.",
+            "name": "Jane Doe",
+            "position": "Developer"
+        },
+        "testimonial2": {
+            "quote": "A must-have tool for every programmer.",
+            "name": "John Smith",
+            "position": "Engineer"
+        },
+        "testimonial3": {
+            "quote": "Incredible tool for managing code snippets efficiently.",
+            "name": "Alice Johnson",
+            "position": "Software Architect"
+        },
+        "testimonial4": {
+            "quote": "I love the seamless integration with my workflow.",
+            "name": "Bob Brown",
+            "position": "Tech Lead"
+        },
+        "testimonial5": {
+            "quote": "An essential tool for modern development practices.",
+            "name": "Emily Davis",
+            "position": "Front-End Developer"
+        },
+        "testimonial6": {
+            "quote": "Fantastic for organizing and sharing code with teams.",
+            "name": "Michael Wilson",
+            "position": "Back-End Developer"
+        },
+        "testimonial7": {
+            "quote": "The best tool I’ve found for snippet management.",
+            "name": "Sara Lee",
+            "position": "Full Stack Developer"
+        },
+        "testimonial8": {
+            "quote": "User-friendly and highly effective.",
+            "name": "Chris Martin",
+            "position": "UI/UX Designer"
+        },
+        "testimonial9": {
+            "quote": "CodeLib is a game-changer for productivity.",
+            "name": "Natalie Green",
+            "position": "Project Manager"
+        },
+        "testimonial10": {
+            "quote": "Efficient and intuitive interface.",
+            "name": "David Clark",
+            "position": "DevOps Engineer"
+        }
+    },
+    "callToAction": {
+        "title": "Ready to get started?",
+        "description": "Join CodeLib today and streamline your coding experience with our powerful snippet management tool.",
+        "button": "Get Started",
+        "note": "No credit card required. Try it for free!"
+    },
+    "themes": {
+        "toggle_theme": "Toggle Theme",
+        "light": "Light",
+        "dark": "Dark",
+        "system": "System"
+    },
+    "get_started": {
+        "title": "CodeLib",
+        "description": "Organize your code, streamline your workflow.",
+        "join_text": "Join thousands of developers already using CodeLib.",
+        "login": "Login",
+        "signup": "Sign Up",
+        "email_placeholder": "john.doe@example.com",
+        "password_placeholder": "******",
+        "or": "Or",
+        "github_signin": "Sign in with GitHub",
+        "google_signin": "Sign in with Google",
+        "toggle_login_signup": {
+            "signup": "Need an account? Sign Up",
+            "login": "Already have an account? Login"
+        }
+    },
+    "LocaleSwitcher": {
+        "label": "Change Language",
+        "locale": "{locale, select, de {Deutsch} en {English} fr {Français} es {Español} it {Italiano} pt {Português} nl {Nederlands} ru {Русский} zh {中文} ja {日本語} ko {한국어} hi {हिन्दी} bn {বাংলা} id {Bahasa Indonesia} th {ภาษาไทย} vi {Tiếng Việt} tr {Türkçe} pl {Polski} sv {Svenska} other {Langue inconnue}}"
+    },
+    "about-page": {
+        "about": {
+            "heroTitle": "Discover CodeLib",
+            "heroSubtitle": "Explore how CodeLib can transform your code management.",
+            "heroButton": "Learn More",
+            "storyTitle": "The Story Behind CodeLib",
+            "p1": "CodeLib was born out of a desire to create a powerful, yet user-friendly tool for managing code snippets. As a web developer, I found that existing solutions do not match modern requirements or do not fit standard use cases. I wanted a tool that could seamlessly integrate with my workflow, allowing me to organize, edit, and access my code snippets effortlessly. It is a niche yet unique app with a specific idea, and that is why I wanted to develop this special and powerful resource for the masses.",
+            "p2": "The journey from idea to implementation has been both challenging and rewarding. I've poured my passion for coding and design into every aspect of CodeLib, ensuring that it not only meets my needs but also provides a great experience for other developers. The project is a reflection of my commitment to creating tools that make coding more enjoyable and efficient.",
+            "p3": "Currently, CodeLib is in active development, with ongoing improvements and new features being added regularly. I am dedicated to refining the tool and expanding its capabilities based on user feedback and my own evolving needs.",
+            "p4": "Thank you for visiting CodeLib. I hope it becomes an invaluable resource for you as you navigate your coding journey. Stay tuned for more updates and feel free to reach out with any suggestions or feedback.",
+            "featuresTitle": "Key Features",
+            "features": {
+                "feature1": {
+                    "title": "Organize your code snippets",
+                    "description": "Manage your snippets with a flexible folder-based structure, allowing for easy categorization and retrieval."
+                },
+                "feature2": {
+                    "title": "Syntax Highlighting",
+                    "description": "Enjoy enhanced readability with syntax highlighting for various programming languages, making it easier to understand and work with your code."
+                },
+                "feature3": {
+                    "title": "User-Friendly Interface",
+                    "description": "Experience a clean and intuitive interface designed for simplicity and efficiency, ensuring a smooth user experience."
+                },
+                "feature4": {
+                    "title": "Real-Time Editing",
+                    "description": "Benefit from real-time code editing and saving functionality, allowing you to make changes and see updates instantly."
+                },
+                "feature5": {
+                    "title": "Seamless Integration",
+                    "description": "Integrate CodeLib with your existing workflow effortlessly, ensuring a cohesive and productive coding environment."
+                },
+                "feature6": {
+                    "title": "Powerful Search",
+                    "description": "Quickly find your snippets with an advanced search feature that supports filtering by tags, names, and content."
+                },
+                "feature7": {
+                    "title": "Device Sync",
+                    "description": "Access your snippets from anywhere with multi-device synchronization, ensuring you have your code with you at all times."
+                }
+            }
+        },
+        "faqTitle": "Frequently Asked Questions (FAQs)",
+        "faq": {
+            "question1": "What is CodeLib?",
+            "answer1": "CodeLib is a tool designed to help developers manage and organize their code snippets efficiently. It offers features like syntax highlighting, real-time editing, and customizable settings to enhance your coding experience.",
+            "question2": "How can I get started with CodeLib?",
+            "answer2": "You can get started by signing up and creating your first code snippets. Explore the user-friendly interface and take advantage of the features to organize and manage your code effectively.",
+            "question3": "Is CodeLib free to use?",
+            "answer3": "CodeLib is a free resource for everyone, which is not going to be monetized in the near future. Every feature that exists is available for everyone.",
+            "question4": "Where can I find more information or support?",
+            "answer4": "For more information or support, visit our documentation page or contact us directly through our support channels. We are here to help you with any questions or issues you may have."
+        }
+    },
+    "TermsOfService": "<h2><strong>Terms and Conditions</strong></h2> <p>Welcome to CodeLib!</p> <p>These terms and conditions outline the rules and regulations for the use of CodeLib's Website, located <a href=\"https://CodeLib.vercel.app\">here</a>.</p> <p>By accessing this website we assume you accept these terms and conditions. Do not continue to use CodeLib if you do not agree to take all of the terms and conditions stated on this page.</p> <p>The following terminology applies to these Terms and Conditions, Privacy Statement and Disclaimer Notice and all Agreements: \"Client\", \"You\" and \"Your\" refers to you, the person log on this website and compliant to the Company’s terms and conditions. \"The Company\", \"Ourselves\", \"We\", \"Our\" and \"Us\", refers to our Company. \"Party\", \"Parties\", or \"Us\", refers to both the Client and ourselves. All terms refer to the offer, acceptance and consideration of payment necessary to undertake the process of our assistance to the Client in the most appropriate manner for the express purpose of meeting the Client’s needs in respect of provision of the Company’s stated services, in accordance with and subject to, prevailing law of Netherlands. Any use of the above terminology or other words in the singular, plural, capitalization and/or he/she or they, are taken as interchangeable and therefore as referring to same.</p> <h3><strong>Cookies</strong></h3> <p>We employ the use of cookies. By accessing CodeLib, you agreed to use cookies in agreement with the CodeLib's Privacy Policy.</p> <p>Most interactive websites use cookies to let us retrieve the user’s details for each visit. Cookies are used by our website to enable the functionality of certain areas to make it easier for people visiting our website. Some of our affiliate/advertising partners may also use cookies.</p> <h3><strong>License</strong></h3> <p>Unless otherwise stated, CodeLib and/or its licensors own the intellectual property rights for all material on CodeLib. All intellectual property rights are reserved. You may access this from CodeLib for your own personal use subjected to restrictions set in these terms and conditions.</p> <p>You must not:</p><ul><li>Republish material from CodeLib</li><li>Sell, rent or sub-license material from CodeLib</li><li>Reproduce, duplicate or copy material from CodeLib</li><li>Redistribute content from CodeLib</li></ul> <p>Parts of this website offer an opportunity for users to post and exchange opinions and information in certain areas of the website. CodeLib does not filter, edit, publish or review Comments prior to their presence on the website. Comments do not reflect the views and opinions of CodeLib, its agents and/or affiliates. Comments reflect the views and opinions of the person who post their views and opinions. To the extent permitted by applicable laws, CodeLib shall not be liable for the Comments or for any liability, damages or expenses caused and/or suffered as a result of any use of and/or posting of and/or appearance of the Comments on this website.</p> <p>CodeLib reserves the right to monitor all Comments and to remove any Comments which can be considered inappropriate, offensive or causes breach of these Terms and Conditions.</p> <p>You warrant and represent that:</p><ul><li>You are entitled to post the Comments on our website and have all necessary licenses and consents to do so;</li><li>The Comments do not invade any intellectual property right, including without limitation copyright, patent or trademark of any third party;</li><li>The Comments do not contain any defamatory, libelous, offensive, indecent or otherwise unlawful material which is an invasion of privacy</li><li>The Comments will not be used to solicit or promote business or custom or present commercial activities or unlawful activity.</li></ul> <p>You hereby grant CodeLib a non-exclusive license to use, reproduce, edit and authorize others to use, reproduce and edit any of your Comments in any and all forms, formats or media.</p> <h3><strong>Hyperlinking to our Content</strong></h3> <p>The following organizations may link to our Website without prior written approval:</p><ul><li>Government agencies;</li><li>Search engines;</li><li>News organizations;</li><li>Online directory distributors may link to our Website in the same manner as they hyperlink to the Websites of other listed businesses; and</li><li>System wide Accredited Businesses except soliciting non-profit organizations, charity shopping malls, and charity fundraising groups which may not hyperlink to our Web site.</li></ul> <p>These organizations may link to our home page, to publications or to other Website information so long as the link: (a) is not in any way deceptive; (b) does not falsely imply sponsorship, endorsement or approval of the linking party and its products and/or services; and (c) fits within the context of the linking party’s site.</p> <p>We may consider and approve other link requests from the following types of organizations:</p><ul><li>commonly-known consumer and/or business information sources;</li><li>dot.com community sites;</li><li>associations or other groups representing charities;</li><li>online directory distributors;</li><li>internet portals;</li><li>accounting, law and consulting firms; and</li><li>educational institutions and trade associations.</li></ul> <p>We will approve link requests from these organizations if we decide that: (a) the link would not make us look unfavorably to ourselves or to our accredited businesses; (b) the organization does not have any negative records with us; (c) the benefit to us from the visibility of the hyperlink compensates the absence of CodeLib; and (d) the link is in the context of general resource information.</p> <p>These organizations may link to our home page so long as the link: (a) is not in any way deceptive; (b) does not falsely imply sponsorship, endorsement or approval of the linking party and its products or services; and (c) fits within the context of the linking party’s site.</p> <p>If you are one of the organizations listed in paragraph 2 above and are interested in linking to our website, you must inform us by sending an e-mail to CodeLib. Please include your name, your organization name, contact information as well as the URL of your site, a list of any URLs from which you intend to link to our Website, and a list of the URLs on our site to which you would like to link. Wait 2-3 weeks for a response.</p> <p>Approved organizations may hyperlink to our Website as follows:</p><ul><li>By use of our corporate name; or</li><li>By use of the uniform resource locator being linked to; or</li><li>By use of any other description of our Website being linked to that makes sense within the context and format of content on the linking party’s site.</li></ul> <p>No use of CodeLib's logo or other artwork will be allowed for linking absent a trademark license agreement.</p> <h3><strong>iFrames</strong></h3> <p>Without prior approval and written permission, you may not create frames around our Webpages that alter in any way the visual presentation or appearance of our Website.</p> <h3><strong>Content Liability</strong></h3> <p>We shall not be hold responsible for any content that appears on your Website. You agree to protect and defend us against all claims that is rising on your Website. No link(s) should appear on any Website that may be interpreted as libelous, obscene or criminal, or which infringes, otherwise violates, or advocates the infringement or other violation of, any third party rights.</p> <h3><strong>Your Privacy</strong></h3> <p>Please read the Privacy Policy, found <a href=\"https://CodeLib.vercel.app/privacy-policy\">here</a>.</p> <h3><strong>Reservation of Rights</strong></h3> <p>We reserve the right to request that you remove all links or any particular link to our Website. You approve to immediately remove all links to our Website upon request. We also reserve the right to amen these terms and conditions and it’s linking policy at any time. By continuously linking to our Website, you agree to be bound to and follow these linking terms and conditions.</p> <h3><strong>Removal of links from our website</strong></h3> <p>If you find any link on our Website that is offensive for any reason, you are free to contact and inform us any moment. We will consider requests to remove links but we are not obligated to or so or to respond to you directly.</p> <p>We do not ensure that the information on this website is correct, we do not warrant its completeness or accuracy; nor do we promise to ensure that the website remains available or that the material on the website is kept up to date.</p> <h3><strong>Disclaimer</strong></h3> <p>To the maximum extent permitted by applicable law, we exclude all representations, warranties and conditions relating to our website and the use of this website. Nothing in this disclaimer will:</p><ul><li>limit or exclude our or your liability for death or personal injury;</li><li>limit or exclude our or your liability for fraud or fraudulent misrepresentation;</li><li>limit any of our or your liabilities in any way that is not permitted under applicable law; or</li><li>exclude any of our or your liabilities that may not be excluded under applicable law.</li></ul><p>The limitations and prohibitions of liability set in this Section and elsewhere in this disclaimer: (a) are subject to the preceding paragraph; and (b) govern all liabilities arising under the disclaimer, including liabilities arising in contract, in tort and for breach of statutory duty.</p><p>As long as the website and the information and services on the website are provided free of charge, we will not be liable for any loss or damage of any nature.</p>",
+    "services-page": {
+        "hero": {
+            "title": "Discover the Magic",
+            "subtitle": "View our services which make the coding world better"
+        },
+        "services": {
+            "s1": {
+                "title": "Advanced Search Methods",
+                "description": "Utilize powerful search capabilities to quickly locate your code snippets. Advanced filters and search options make it easy to find exactly what you need without sifting through endless lists.",
+                "details": "Search by tags, categories, and snippet content. Save frequently used searches and access them easily. Our search engine is designed to handle large datasets efficiently, ensuring fast and accurate results."
+            },
+            "s2": {
+                "title": "Interactive Dashboard",
+                "description": "Access a dynamic dashboard that provides an overview of your code snippets and activities. Visualize your data through charts and widgets, and customize the dashboard to fit your workflow.",
+                "details": "Get real-time insights into your snippets, including usage statistics and recent activity. The dashboard can be tailored to display the most relevant information, helping you stay organized and informed."
+            },
+            "s3": {
+                "title": "Comprehensive Settings",
+                "description": "Customize your experience with a wide range of settings. Adjust preferences for snippet display, search filters, notifications, and more to tailor the platform to your needs.",
+                "details": "Control how snippets are presented, set up notifications for updates, and manage account settings with ease. Our settings panel is designed for flexibility and convenience, ensuring you have full control over your environment."
+            },
+            "s4": {
+                "title": "Robust Authentication System",
+                "description": "Experience a secure and efficient authentication system. CodeLib offers seamless login options, including OAuth and email-based authentication, to protect your data and enhance security.",
+                "details": "Utilize various authentication methods, manage your credentials securely, and enjoy a smooth sign-in experience. Our system is designed to provide robust security without compromising ease of use."
+            },
+            "s5": {
+                "title": "Enhanced User Experience",
+                "description": "Benefit from a carefully crafted user experience that prioritizes ease of use and efficiency. Navigate through the platform effortlessly and enjoy intuitive interfaces and responsive design.",
+                "details": "Our platform is designed with the user in mind, featuring clear navigation, responsive layouts, and user-friendly interactions. Whether on desktop or mobile, CodeLib ensures a smooth and enjoyable experience."
+            },
+            "s6": {
+                "title": "Snippet Organization and Management",
+                "description": "Efficiently manage and organize your snippets with a structured folder system. Categorize, tag, and store your snippets for easy access and retrieval.",
+                "details": "Create folders and subfolders, apply custom tags, and utilize filters to quickly locate and manage your snippets. The organized structure ensures that your code snippets are always at your fingertips."
+            }
+        }
+    }
+}

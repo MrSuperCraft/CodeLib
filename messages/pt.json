@@ -1,0 +1,253 @@
+{
+    "header": {
+        "main_menu": "Menu Principal",
+        "home": "Lar",
+        "about": "Sobre",
+        "services": "Serviços",
+        "contact": "Contato",
+        "get_started": "Comece",
+        "privacy_policy": "política de Privacidade",
+        "terms_and_conditions": "Termos e Condições",
+        "phone_contact": "Contato",
+        "brand": {
+            "title": "CodeLib",
+            "tagline": "Tornando os snippets acessíveis"
+        }
+    },
+    "footer": {
+        "brand": "CodeLib",
+        "links": {
+            "contact": "Contato",
+            "privacy": "política de Privacidade",
+            "terms": "Termos de Serviço"
+        },
+        "social": {
+            "twitter": "Twitter",
+            "linkedin": "LinkedIn"
+        },
+        "copyright": "© 2023 CodeLib. ",
+        "developer": "Itamar Hanan"
+    },
+    "hero": {
+        "welcome": "Bem-vindo ao CodeLib",
+        "sub": "Seu gerenciador de snippets de código preferido",
+        "cta": "Comece",
+        "stats": {
+            "snippets": "Trechos de código",
+            "users": "Usuários",
+            "lines": "Linhas de código salvas"
+        }
+    },
+    "about": {
+        "title": "Sobre CodeLib",
+        "p1": "Na CodeLib, temos a missão de tornar a codificação mais eficiente e agradável. ",
+        "p2": "Com uma interface intuitiva e recursos poderosos, CodeLib foi projetado para ser seu melhor companheiro de codificação, ajudando você a se concentrar no que você faz de melhor: escrever ótimos códigos.",
+        "learn_more": "Saber mais",
+        "our_mission": "Nossa Missão"
+    },
+    "features": {
+        "title": "Características",
+        "feature1": {
+            "title": "Gerenciamento de código",
+            "description": "Gerencie e organize com eficiência seus snippets de código."
+        },
+        "feature2": {
+            "title": "Sincronização na nuvem",
+            "description": "Sincronize seus snippets em todos os seus dispositivos perfeitamente."
+        },
+        "feature3": {
+            "title": "Colaboração aprimorada",
+            "description": "Compartilhe seus trechos de código e colabore com sua equipe sem esforço."
+        },
+        "feature4": {
+            "title": "Tags personalizadas",
+            "description": "Marque e categorizar seus snippets para fácil recuperação."
+        },
+        "feature5": {
+            "title": "Pesquisa Avançada",
+            "description": "Encontre seus snippets rapidamente com nossa poderosa funcionalidade de pesquisa."
+        },
+        "feature6": {
+            "title": "Suporte multiplataforma",
+            "description": "Acesse seus trechos de código em qualquer dispositivo, a qualquer hora."
+        }
+    },
+    "testimonials": {
+        "title": "O que nossos usuários dizem",
+        "testimonial1": {
+            "quote": "CodeLib revolucionou meu fluxo de trabalho de codificação.",
+            "name": "Jane Doe",
+            "position": "Desenvolvedor"
+        },
+        "testimonial2": {
+            "quote": "Uma ferramenta indispensável para todo programador.",
+            "name": "João Smith",
+            "position": "Engenheiro"
+        },
+        "testimonial3": {
+            "quote": "Ferramenta incrível para gerenciar trechos de código com eficiência.",
+            "name": "Alice Johnson",
+            "position": "Arquiteto de Software"
+        },
+        "testimonial4": {
+            "quote": "Adoro a integração perfeita com meu fluxo de trabalho.",
+            "name": "Bob Brown",
+            "position": "Líder Técnico"
+        },
+        "testimonial5": {
+            "quote": "Uma ferramenta essencial para práticas modernas de desenvolvimento.",
+            "name": "Emily Davis",
+            "position": "Desenvolvedor Front-End"
+        },
+        "testimonial6": {
+            "quote": "Fantástico para organizar e compartilhar código com equipes.",
+            "name": "Michael Wilson",
+            "position": "Desenvolvedor Back-End"
+        },
+        "testimonial7": {
+            "quote": "A melhor ferramenta que encontrei para gerenciamento de snippets.",
+            "name": "Sarah Lee",
+            "position": "Desenvolvedor Full Stack"
+        },
+        "testimonial8": {
+            "quote": "Fácil de usar e altamente eficaz.",
+            "name": "Chris Martin",
+            "position": "Designer UI/UX"
+        },
+        "testimonial9": {
+            "quote": "CodeLib é uma virada de jogo em termos de produtividade.",
+            "name": "Natália Verde",
+            "position": "Gestor de projeto"
+        },
+        "testimonial10": {
+            "quote": "Interface eficiente e intuitiva.",
+            "name": "David Clark",
+            "position": "Engenheiro DevOps"
+        }
+    },
+    "callToAction": {
+        "title": "Pronto para começar?",
+        "description": "Junte-se ao CodeLib hoje e agilize sua experiência de codificação com nossa poderosa ferramenta de gerenciamento de snippets.",
+        "button": "Comece",
+        "note": "Não é necessário cartão de crédito. "
+    },
+    "themes": {
+        "toggle_theme": "Alternar tema",
+        "light": "Luz",
+        "dark": "Escuro",
+        "system": "Sistema"
+    },
+    "get_started": {
+        "title": "CodeLib",
+        "description": "Organize seu código, simplifique seu fluxo de trabalho.",
+        "join_text": "Junte-se a milhares de desenvolvedores que já usam CodeLib.",
+        "login": "Conecte-se",
+        "signup": "Inscrever-se",
+        "email_placeholder": "john.doe@example.com",
+        "password_placeholder": "******",
+        "or": "Ou",
+        "github_signin": "Faça login com GitHub",
+        "google_signin": "Faça login com o Google",
+        "toggle_login_signup": {
+            "signup": "Precisa de uma conta? ",
+            "login": "Já tem uma conta? "
+        }
+    },
+    "LocaleSwitcher": {
+        "label": "Alterar idioma",
+        "locale": "{locale, select, de {Deutsch} en {English} fr {Français} es {Español} it {Italiano} pt {Português} nl {Nederlands} ru {Русский} zh {中文} ja {日本語} ko {한국어} hi {हिन्दी} bn {বাংলা} id {Bahasa Indonesia} th {ภาษาไทย} vi {Tiếng Việt} tr {Türkçe} pl {Polski} sv {Svenska} other {Langue inconnue}}"
+    },
+    "TermsOfService": "<h2><strong>Termos e Condições</strong></h2> <p>Bem-vindo ao CodeLib!</p> <p>Estes termos e condições descrevem as regras e regulamentos para o uso do site da CodeLib, localizado <a href=\"https://CodeLib.vercel.app\">aqui</a>.</p> <p>Ao acessar este site presumimos que você aceita estes termos e condições. </p> <p>A terminologia a seguir se aplica a estes Termos e Condições, Declaração de Privacidade e Aviso de Isenção de Responsabilidade e todos os Contratos: \"Cliente\", \"Você\" e \"Seu\" referem-se a você, a pessoa que faz login neste site e está em conformidade com os termos e condições da Empresa. </p> <h3><strong>Biscoitos</strong></h3> <p>Empregamos o uso de cookies. </p> <p>A maioria dos sites interativos utiliza cookies para nos permitir recuperar os detalhes do usuário em cada visita. </p> <h3><strong>Licença</strong></h3> <p>Salvo indicação em contrário, CodeLib e/ou seus licenciadores possuem os direitos de propriedade intelectual de todo o material em CodeLib. </p> <p>Você não deve:</p><ul><li>Republicar material do CodeLib</li><li>Vender, alugar ou sublicenciar material da CodeLib</li><li>Reproduzir, duplicar ou copiar material do CodeLib</li><li>Redistribuir conteúdo do CodeLib</li></ul> <p>Partes deste site oferecem aos usuários a oportunidade de postar e trocar opiniões e informações em determinadas áreas do site. </p> <p>CodeLib reserva-se o direito de monitorar todos os Comentários e remover quaisquer Comentários que possam ser considerados inadequados, ofensivos ou que causem violação destes Termos e Condições.</p> <p>Você garante e declara que:</p><ul><li>Você tem o direito de postar os Comentários em nosso site e possui todas as licenças e consentimentos necessários para fazê-lo;</li><li>Os Comentários não invadem nenhum direito de propriedade intelectual, incluindo, sem limitação, direitos autorais, patentes ou marcas registradas de terceiros;</li><li>Os Comentários não contêm qualquer material difamatório, calunioso, ofensivo, indecente ou de outra forma ilegal que seja uma invasão de privacidade</li><li>Os Comentários não serão usados ​​para solicitar ou promover negócios ou costumes ou apresentar atividades comerciais ou atividades ilegais.</li></ul> <p>Você concede à CodeLib uma licença não exclusiva para usar, reproduzir, editar e autorizar outros a usar, reproduzir e editar qualquer um dos seus Comentários em toda e qualquer forma, formato ou mídia.</p> <h3><strong>Hiperlink para nosso conteúdo</strong></h3> <p>As seguintes organizações podem vincular-se ao nosso site sem aprovação prévia por escrito:</p><ul><li>Agências governamentais;</li><li>Motores de busca;</li><li>Organizações de notícias;</li><li>Os distribuidores de diretórios on-line podem criar links para nosso site da mesma maneira que fazem hiperlinks para sites de outras empresas listadas; </li><li>Empresas credenciadas em todo o sistema, exceto organizações sem fins lucrativos, shopping centers de caridade e grupos de arrecadação de fundos de caridade que não podem criar hiperlinks para nosso site.</li></ul> <p>Estas organizações podem criar links para a nossa página inicial, para publicações ou para outras informações do Site, desde que o link: (a) não seja de forma alguma enganoso; </p> <p>Poderemos considerar e aprovar outras solicitações de vínculo dos seguintes tipos de organizações:</p><ul><li>fontes de informações comumente conhecidas de consumidores e/ou empresas;</li><li>sites da comunidade ponto.com;</li><li>associações ou outros grupos que representam instituições de caridade;</li><li>distribuidores de diretórios on-line;</li><li>portais de internet;</li><li>escritórios de contabilidade, advocacia e consultoria; </li><li>instituições educacionais e associações comerciais.</li></ul> <p>Aprovaremos solicitações de link dessas organizações se decidirmos que: (a) o link não nos faria olhar desfavoravelmente para nós mesmos ou para nossas empresas credenciadas; </p> <p>Estas organizações podem criar links para a nossa página inicial, desde que o link: (a) não seja de forma alguma enganoso; </p> <p>Se você é uma das organizações listadas no parágrafo 2 acima e está interessado em criar um link para nosso site, deverá nos informar enviando um e-mail para CodeLib. </p> <p>As organizações aprovadas podem criar hiperlinks para o nosso site da seguinte forma:</p><ul><li>Pelo uso de nosso nome corporativo; </li><li>Pelo uso do localizador uniforme de recursos ao qual está vinculado; </li><li>Pelo uso de qualquer outra descrição do nosso site vinculado, isso faz sentido dentro do contexto e formato do conteúdo do site da parte vinculante.</li></ul> <p>Não será permitido o uso do logotipo ou de outras obras de arte da CodeLib para vinculação, sem um contrato de licença de marca registrada.</p> <h3><strong>iFrames</strong></h3> <p>Sem aprovação prévia e permissão por escrito, você não poderá criar molduras em torno de nossas páginas da Web que alterem de alguma forma a apresentação visual ou a aparência do nosso site.</p> <h3><strong>Responsabilidade pelo conteúdo</strong></h3> <p>Não seremos responsáveis ​​por qualquer conteúdo que apareça no seu site. </p> <h3><strong>Sua privacidade</strong></h3> <p>Por favor leia a Política de Privacidade, encontrada <a href=\"https://CodeLib.vercel.app/privacy-policy\">aqui</a>.</p> <h3><strong>Reserva de Direitos</strong></h3> <p>Reservamo-nos o direito de solicitar que você remova todos os links ou qualquer link específico para o nosso site. </p> <h3><strong>Remoção de links do nosso site</strong></h3> <p>Se você encontrar algum link em nosso Site que seja ofensivo por qualquer motivo, você está à vontade para entrar em contato e nos informar a qualquer momento. </p> <p>Não garantimos que as informações contidas neste site estejam corretas, não garantimos a sua integridade ou exatidão; </p> <h3><strong>Isenção de responsabilidade</strong></h3> <p>Na extensão máxima permitida pela lei aplicável, excluímos todas as representações, garantias e condições relacionadas ao nosso site e ao uso deste site. </p><ul><li>limitar ou excluir a nossa ou a sua responsabilidade por morte ou danos pessoais;</li><li>limitar ou excluir a nossa ou a sua responsabilidade por fraude ou deturpação fraudulenta;</li><li>limitar qualquer uma de nossas ou suas responsabilidades de qualquer forma que não seja permitida pela lei aplicável; </li><li>excluir qualquer uma de nossas ou suas responsabilidades que não possam ser excluídas pela lei aplicável.</li></ul><p>As limitações e proibições de responsabilidade estabelecidas nesta Seção e em outras partes desta isenção de responsabilidade: (a) estão sujeitas ao parágrafo anterior; </p><p>Desde que o site e as informações e serviços do site sejam fornecidos gratuitamente, não seremos responsáveis ​​por quaisquer perdas ou danos de qualquer natureza.</p>",
+    "services-page": {
+        "hero": {
+            "title": "Descubra a magia",
+            "subtitle": "Veja nossos serviços que tornam o mundo da codificação melhor"
+        },
+        "services": {
+            "s1": {
+                "title": "Métodos de pesquisa avançada",
+                "description": "Utilize recursos de pesquisa poderosos para localizar rapidamente seus trechos de código. ",
+                "details": "Pesquise por tags, categorias e conteúdo de snippet. "
+            },
+            "s2": {
+                "title": "Painel interativo",
+                "description": "Acesse um painel dinâmico que fornece uma visão geral de seus trechos de código e atividades. ",
+                "details": "Obtenha insights em tempo real sobre seus snippets, incluindo estatísticas de uso e atividades recentes. "
+            },
+            "s3": {
+                "title": "Configurações abrangentes",
+                "description": "Personalize sua experiência com uma ampla variedade de configurações. ",
+                "details": "Controle como os snippets são apresentados, configure notificações para atualizações e gerencie as configurações da conta com facilidade. "
+            },
+            "s4": {
+                "title": "Sistema de autenticação robusto",
+                "description": "Experimente um sistema de autenticação seguro e eficiente. ",
+                "details": "Utilize vários métodos de autenticação, gerencie suas credenciais com segurança e desfrute de uma experiência de login tranquila. "
+            },
+            "s5": {
+                "title": "Experiência de usuário aprimorada",
+                "description": "Beneficie-se de uma experiência de usuário cuidadosamente elaborada que prioriza facilidade de uso e eficiência. ",
+                "details": "Nossa plataforma foi projetada pensando no usuário, apresentando navegação clara, layouts responsivos e interações fáceis de usar. "
+            },
+            "s6": {
+                "title": "Organização e gerenciamento de snippets",
+                "description": "Gerencie e organize seus snippets com eficiência com um sistema de pastas estruturado. ",
+                "details": "Crie pastas e subpastas, aplique tags personalizadas e utilize filtros para localizar e gerenciar rapidamente seus snippets. "
+            }
+        }
+    },
+    "about-page": {
+        "about": {
+            "heroTitle": "Descubra CodeLib",
+            "heroSubtitle": "Explore como CodeLib pode transformar seu gerenciamento de código.",
+            "heroButton": "Saber mais",
+            "storyTitle": "A história por trás do CodeLib",
+            "p1": "CodeLib nasceu do desejo de criar uma ferramenta poderosa e fácil de usar para gerenciar trechos de código. ",
+            "p2": "A jornada da ideia à implementação tem sido desafiadora e gratificante. ",
+            "p3": "Atualmente, CodeLib está em desenvolvimento ativo, com melhorias contínuas e novos recursos adicionados regularmente. ",
+            "p4": "Obrigado por visitar CodeLib. ",
+            "featuresTitle": "Principais recursos",
+            "features": {
+                "feature1": {
+                    "title": "Organize seus trechos de código",
+                    "description": "Gerencie seus snippets com uma estrutura flexível baseada em pastas, permitindo fácil categorização e recuperação."
+                },
+                "feature2": {
+                    "title": "Destaque de sintaxe",
+                    "description": "Aproveite a legibilidade aprimorada com destaque de sintaxe para diversas linguagens de programação, facilitando a compreensão e o trabalho com seu código."
+                },
+                "feature3": {
+                    "title": "Interface amigável",
+                    "description": "Experimente uma interface limpa e intuitiva projetada para simplicidade e eficiência, garantindo uma experiência de usuário tranquila."
+                },
+                "feature4": {
+                    "title": "Edição em tempo real",
+                    "description": "Beneficie-se da funcionalidade de edição e salvamento de código em tempo real, permitindo que você faça alterações e veja atualizações instantaneamente."
+                },
+                "feature5": {
+                    "title": "Integração perfeita",
+                    "description": "Integre CodeLib ao seu fluxo de trabalho existente sem esforço, garantindo um ambiente de codificação coeso e produtivo."
+                },
+                "feature6": {
+                    "title": "Pesquisa poderosa",
+                    "description": "Encontre rapidamente seus snippets com um recurso de pesquisa avançada que suporta filtragem por tags, nomes e conteúdo."
+                },
+                "feature7": {
+                    "title": "Sincronização de dispositivos",
+                    "description": "Acesse seus snippets de qualquer lugar com sincronização de vários dispositivos, garantindo que você tenha seu código sempre com você."
+                }
+            }
+        },
+        "faqTitle": "Perguntas frequentes (FAQ)",
+        "faq": {
+            "question1": "O que é CodeLib?",
+            "answer1": "CodeLib é uma ferramenta projetada para ajudar os desenvolvedores a gerenciar e organizar seus trechos de código com eficiência. ",
+            "question2": "Como posso começar a usar CodeLib?",
+            "answer2": "Você pode começar inscrevendo-se e criando seus primeiros trechos de código. ",
+            "question3": "O uso do CodeLib é gratuito?",
+            "answer3": "CodeLib é um recurso gratuito para todos, que não será monetizado num futuro próximo. ",
+            "question4": "Onde posso encontrar mais informações ou suporte?",
+            "answer4": "Para mais informações ou suporte, visite nossa página de documentação ou entre em contato conosco diretamente através de nossos canais de suporte. "
+        }
+    }
+}

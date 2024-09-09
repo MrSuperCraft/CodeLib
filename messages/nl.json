@@ -1,0 +1,253 @@
+{
+    "header": {
+        "main_menu": "Hoofdmenu",
+        "home": "Thuis",
+        "about": "Over",
+        "services": "Diensten",
+        "contact": "Contact",
+        "get_started": "Aan de slag",
+        "privacy_policy": "Privacybeleid",
+        "terms_and_conditions": "Algemene voorwaarden",
+        "phone_contact": "Contact",
+        "brand": {
+            "title": "CodeLib",
+            "tagline": "Fragmenten toegankelijk maken"
+        }
+    },
+    "footer": {
+        "brand": "CodeLib",
+        "links": {
+            "contact": "Contact",
+            "privacy": "Privacybeleid",
+            "terms": "Servicevoorwaarden"
+        },
+        "social": {
+            "twitter": "Twitteren",
+            "linkedin": "LinkedIn"
+        },
+        "copyright": "© 2023 CodeLib. ",
+        "developer": "Itamar Hanan"
+    },
+    "hero": {
+        "welcome": "Welkom bij CodeLib",
+        "sub": "Uw favoriete codefragmentbeheerder",
+        "cta": "Aan de slag",
+        "stats": {
+            "snippets": "Codefragmenten",
+            "users": "Gebruikers",
+            "lines": "Coderegels opgeslagen"
+        }
+    },
+    "about": {
+        "title": "Over CodeLib",
+        "p1": "Bij CodeLib hebben we de missie om coderen efficiënter en leuker te maken. ",
+        "p2": "Met een intuïtieve interface en krachtige functies is CodeLib ontworpen als uw ultieme codeerpartner, zodat u zich kunt concentreren op waar u het beste in bent: geweldige code schrijven.",
+        "learn_more": "Meer informatie",
+        "our_mission": "Onze missie"
+    },
+    "features": {
+        "title": "Functies",
+        "feature1": {
+            "title": "Codebeheer",
+            "description": "Beheer en organiseer uw codefragmenten efficiënt."
+        },
+        "feature2": {
+            "title": "Cloudsynchronisatie",
+            "description": "Synchroniseer uw fragmenten naadloos op al uw apparaten."
+        },
+        "feature3": {
+            "title": "Verbeterde samenwerking",
+            "description": "Deel uw codefragmenten en werk moeiteloos samen met uw team."
+        },
+        "feature4": {
+            "title": "Aangepaste tags",
+            "description": "Tag en categoriseer uw fragmenten zodat u ze gemakkelijk kunt terugvinden."
+        },
+        "feature5": {
+            "title": "Geavanceerd zoeken",
+            "description": "Vind uw fragmenten snel met onze krachtige zoekfunctionaliteit."
+        },
+        "feature6": {
+            "title": "Ondersteuning voor meerdere platforms",
+            "description": "Krijg altijd en overal toegang tot uw codefragmenten vanaf elk apparaat."
+        }
+    },
+    "testimonials": {
+        "title": "Wat onze gebruikers zeggen",
+        "testimonial1": {
+            "quote": "CodeLib heeft een revolutie teweeggebracht in mijn codeerworkflow.",
+            "name": "Jane Doe",
+            "position": "Ontwikkelaar"
+        },
+        "testimonial2": {
+            "quote": "Een must-have tool voor elke programmeur.",
+            "name": "Johannes Smit",
+            "position": "Ingenieur"
+        },
+        "testimonial3": {
+            "quote": "Ongelooflijke tool voor het efficiënt beheren van codefragmenten.",
+            "name": "Alice Johnson",
+            "position": "Software-architect"
+        },
+        "testimonial4": {
+            "quote": "Ik ben dol op de naadloze integratie met mijn workflow.",
+            "name": "Bob Bruin",
+            "position": "Tech leider"
+        },
+        "testimonial5": {
+            "quote": "Een essentieel hulpmiddel voor moderne ontwikkelingspraktijken.",
+            "name": "Emily Davis",
+            "position": "Front-end ontwikkelaar"
+        },
+        "testimonial6": {
+            "quote": "Fantastisch voor het organiseren en delen van code met teams.",
+            "name": "Michaël Wilson",
+            "position": "Back-end ontwikkelaar"
+        },
+        "testimonial7": {
+            "quote": "De beste tool die ik heb gevonden voor fragmentbeheer.",
+            "name": "Sara Lee",
+            "position": "Fullstack-ontwikkelaar"
+        },
+        "testimonial8": {
+            "quote": "Gebruiksvriendelijk en zeer effectief.",
+            "name": "Chris Martin",
+            "position": "UI/UX-ontwerper"
+        },
+        "testimonial9": {
+            "quote": "CodeLib is een gamechanger voor productiviteit.",
+            "name": "Natalie Groen",
+            "position": "Projectmanager"
+        },
+        "testimonial10": {
+            "quote": "Efficiënte en intuïtieve interface.",
+            "name": "David Clark",
+            "position": "DevOps-ingenieur"
+        }
+    },
+    "callToAction": {
+        "title": "Klaar om aan de slag te gaan?",
+        "description": "Sluit u vandaag nog aan bij CodeLib en stroomlijn uw codeerervaring met onze krachtige tool voor fragmentbeheer.",
+        "button": "Aan de slag",
+        "note": "Geen creditcard vereist. "
+    },
+    "themes": {
+        "toggle_theme": "Thema wisselen",
+        "light": "Licht",
+        "dark": "Donker",
+        "system": "Systeem"
+    },
+    "get_started": {
+        "title": "CodeLib",
+        "description": "Organiseer uw code en stroomlijn uw workflow.",
+        "join_text": "Sluit u aan bij duizenden ontwikkelaars die CodeLib al gebruiken.",
+        "login": "Login",
+        "signup": "Aanmelden",
+        "email_placeholder": "john.doe@voorbeeld.com",
+        "password_placeholder": "*****",
+        "or": "Of",
+        "github_signin": "Log in met GitHub",
+        "google_signin": "Log in met Google",
+        "toggle_login_signup": {
+            "signup": "Een account nodig? ",
+            "login": "Heeft u al een account? "
+        }
+    },
+    "LocaleSwitcher": {
+        "label": "Taal wijzigen",
+        "locale": "{locale, select, de {Deutsch} en {English} fr {Français} es {Español} it {Italiano} pt {Português} nl {Nederlands} ru {Русский} zh {中文} ja {日本語} ko {한국어} other {Langue inconnue}}"
+    },
+    "TermsOfService": "<h2><strong>Algemene voorwaarden</strong></h2> <p>Welkom bij CodeLib!</p> <p>Deze algemene voorwaarden schetsen de regels en voorschriften voor het gebruik van de website van CodeLib, gelegen <a href=\"https://CodeLib.vercel.app\">hier</a>.</p> <p>Door deze website te bezoeken, gaan we ervan uit dat u deze algemene voorwaarden accepteert. </p> <p>De volgende terminologie is van toepassing op deze Algemene Voorwaarden, Privacyverklaring en Disclaimer en alle Overeenkomsten: \"Klant\", \"U\" en \"Uw\" verwijst naar u, de persoon die op deze website inlogt en voldoet aan de algemene voorwaarden van het Bedrijf. </p> <h3><strong>Koekjes</strong></h3> <p>Wij maken gebruik van cookies. </p> <p>De meeste interactieve websites maken gebruik van cookies, zodat wij bij elk bezoek de gegevens van de gebruiker kunnen ophalen. </p> <h3><strong>Licentie</strong></h3> <p>Tenzij anders vermeld, bezitten CodeLib en/of haar licentiegevers de intellectuele eigendomsrechten voor al het materiaal op CodeLib. </p> <p>U mag niet:</p><ul><li>Materiaal opnieuw publiceren vanuit CodeLib</li><li>Materiaal van CodeLib verkopen, verhuren of in sublicentie geven</li><li>Reproduceer, dupliceer of kopieer materiaal uit CodeLib</li><li>Verdeel inhoud opnieuw vanuit CodeLib</li></ul> <p>Delen van deze website bieden gebruikers de mogelijkheid om op bepaalde delen van de website meningen en informatie te plaatsen en uit te wisselen. </p> <p>CodeLib behoudt zich het recht voor om alle opmerkingen te controleren en alle opmerkingen te verwijderen die als ongepast of aanstootgevend kunnen worden beschouwd of die een schending van deze Algemene Voorwaarden veroorzaken.</p> <p>U garandeert en vertegenwoordigt dat:</p><ul><li>U heeft het recht om de opmerkingen op onze website te plaatsen en u beschikt over alle benodigde licenties en toestemmingen om dit te doen;</li><li>De opmerkingen maken geen inbreuk op enig intellectueel eigendomsrecht, inclusief maar niet beperkt tot auteursrechten, patenten of handelsmerken van derden;</li><li>De opmerkingen bevatten geen lasterlijk, lasterlijk, aanstootgevend, onfatsoenlijk of anderszins onwettig materiaal dat een inbreuk op de privacy is</li><li>De opmerkingen zullen niet worden gebruikt om zakelijke of gewoonten uit te lokken of te promoten, of om commerciële activiteiten of onwettige activiteiten voor te stellen.</li></ul> <p>U verleent CodeLib hierbij een niet-exclusieve licentie voor het gebruiken, reproduceren, bewerken en autoriseren van anderen om uw opmerkingen in alle vormen, formaten of media te gebruiken, reproduceren en bewerken.</p> <h3><strong>Hyperlinks naar onze inhoud</strong></h3> <p>De volgende organisaties mogen zonder voorafgaande schriftelijke toestemming naar onze website linken:</p><ul><li>Overheidsinstanties;</li><li>Zoekmachines;</li><li>Nieuwsorganisaties;</li><li>Online directory-distributeurs kunnen op dezelfde manier naar onze website linken als zij hyperlinken naar de websites van andere beursgenoteerde bedrijven; </li><li>Systeembrede geaccrediteerde bedrijven, met uitzondering van non-profitorganisaties, liefdadigheidswinkelcentra en liefdadigheidsfondsenwervende groepen die geen hyperlinks naar onze website mogen maken.</li></ul> <p>Deze organisaties kunnen linken naar onze startpagina, naar publicaties of naar andere website-informatie, zolang de link: (a) op geen enkele manier misleidend is; </p> <p>We kunnen andere linkverzoeken van de volgende soorten organisaties in overweging nemen en goedkeuren:</p><ul><li>algemeen bekende consumenten- en/of zakelijke informatiebronnen;</li><li>dot.com-communitysites;</li><li>verenigingen of andere groepen die goede doelen vertegenwoordigen;</li><li>distributeurs van onlinegidsen;</li><li>internetportals;</li><li>accountants-, advocaten- en adviesbureaus; </li><li>onderwijsinstellingen en brancheverenigingen.</li></ul> <p>We zullen linkverzoeken van deze organisaties goedkeuren als we besluiten dat: (a) de link ons ​​niet in een ongunstige positie zou brengen voor onszelf of voor onze geaccrediteerde bedrijven; </p> <p>Deze organisaties kunnen naar onze startpagina linken, zolang de link: (a) op geen enkele manier misleidend is; </p> <p>Als u een van de in paragraaf 2 hierboven genoemde organisaties bent en geïnteresseerd bent in een link naar onze website, moet u ons hiervan op de hoogte stellen door een e-mail te sturen naar CodeLib. </p> <p>Erkende organisaties kunnen als volgt een hyperlink naar onze website maken:</p><ul><li>Door gebruik te maken van onze bedrijfsnaam; </li><li>Door gebruik te maken van de uniforme resource locator waaraan gekoppeld is; </li><li>Door gebruik te maken van een andere beschrijving van onze website waarnaar wordt gelinkt, is dat logisch binnen de context en het format van de inhoud op de site van de linkende partij.</li></ul> <p>Er is geen gebruik van het CodeLib-logo of ander artwork toegestaan ​​voor koppelingen zonder een handelsmerklicentieovereenkomst.</p> <h3><strong>iFrames</strong></h3> <p>Zonder voorafgaande toestemming en schriftelijke toestemming mag u geen frames rond onze webpagina's maken die op enigerlei wijze de visuele presentatie of het uiterlijk van onze website wijzigen.</p> <h3><strong>Aansprakelijkheid voor inhoud</strong></h3> <p>Wij zijn niet verantwoordelijk voor de inhoud die op uw website verschijnt. </p> <h3><strong>Uw privacy</strong></h3> <p>Lees het privacybeleid, gevonden <a href=\"https://CodeLib.vercel.app/privacy-policy\">hier</a>.</p> <h3><strong>Voorbehoud van rechten</strong></h3> <p>Wij behouden ons het recht voor om u te verzoeken alle links of een bepaalde link naar onze Website te verwijderen. </p> <h3><strong>Verwijdering van links van onze website</strong></h3> <p>Als u een link op onze website aantreft die om welke reden dan ook aanstootgevend is, kunt u op elk moment contact met ons opnemen en ons hiervan op de hoogte stellen. </p> <p>Wij garanderen niet dat de informatie op deze website correct is, wij garanderen de volledigheid of nauwkeurigheid ervan niet; </p> <h3><strong>Vrijwaring</strong></h3> <p>Voor zover maximaal toegestaan ​​door de toepasselijke wetgeving, sluiten wij alle verklaringen, garanties en voorwaarden met betrekking tot onze website en het gebruik van deze website uit. </p><ul><li>onze of uw aansprakelijkheid voor overlijden of persoonlijk letsel beperken of uitsluiten;</li><li>onze of uw aansprakelijkheid voor fraude of frauduleuze verkeerde voorstelling van zaken beperken of uitsluiten;</li><li>onze of uw aansprakelijkheid beperken op een manier die niet is toegestaan ​​onder de toepasselijke wetgeving; </li><li>sluit al onze of uw aansprakelijkheid uit die mogelijk niet is uitgesloten onder de toepasselijke wetgeving.</li></ul><p>De beperkingen en verbodsbepalingen van aansprakelijkheid die in deze sectie en elders in deze disclaimer worden uiteengezet: (a) zijn onderworpen aan de voorgaande paragraaf; </p><p>Zolang de website en de informatie en diensten op de website gratis worden aangeboden, zijn wij niet aansprakelijk voor verlies of schade van welke aard dan ook.</p>",
+    "services-page": {
+        "hero": {
+            "title": "Ontdek de magie",
+            "subtitle": "Bekijk onze diensten die de codeerwereld beter maken"
+        },
+        "services": {
+            "s1": {
+                "title": "Geavanceerde zoekmethoden",
+                "description": "Maak gebruik van krachtige zoekmogelijkheden om uw codefragmenten snel te vinden. ",
+                "details": "Zoek op tags, categorieën en fragmentinhoud. "
+            },
+            "s2": {
+                "title": "Interactief dashboard",
+                "description": "Krijg toegang tot een dynamisch dashboard dat een overzicht biedt van uw codefragmenten en activiteiten. ",
+                "details": "Krijg realtime inzicht in uw fragmenten, inclusief gebruiksstatistieken en recente activiteit. "
+            },
+            "s3": {
+                "title": "Uitgebreide instellingen",
+                "description": "Pas uw ervaring aan met een breed scala aan instellingen. ",
+                "details": "Bepaal hoe fragmenten worden gepresenteerd, stel meldingen voor updates in en beheer eenvoudig accountinstellingen. "
+            },
+            "s4": {
+                "title": "Robuust authenticatiesysteem",
+                "description": "Ervaar een veilig en efficiënt authenticatiesysteem. ",
+                "details": "Maak gebruik van verschillende authenticatiemethoden, beheer uw inloggegevens veilig en geniet van een soepele aanmeldingservaring. "
+            },
+            "s5": {
+                "title": "Verbeterde gebruikerservaring",
+                "description": "Profiteer van een zorgvuldig samengestelde gebruikerservaring waarbij gebruiksgemak en efficiëntie voorop staan. ",
+                "details": "Ons platform is ontworpen met de gebruiker in gedachten, met duidelijke navigatie, responsieve lay-outs en gebruiksvriendelijke interacties. "
+            },
+            "s6": {
+                "title": "Fragment Organisatie en beheer",
+                "description": "Beheer en organiseer uw fragmenten efficiënt met een gestructureerd mappensysteem. ",
+                "details": "Maak mappen en submappen, pas aangepaste tags toe en gebruik filters om uw fragmenten snel te vinden en te beheren. "
+            }
+        }
+    },
+    "about-page": {
+        "about": {
+            "heroTitle": "Ontdek CodeLib",
+            "heroSubtitle": "Ontdek hoe CodeLib uw codebeheer kan transformeren.",
+            "heroButton": "Meer informatie",
+            "storyTitle": "Het verhaal achter CodeLib",
+            "p1": "CodeLib is ontstaan ​​uit de wens om een ​​krachtige, maar gebruiksvriendelijke tool te creëren voor het beheren van codefragmenten. ",
+            "p2": "De reis van idee naar implementatie was zowel uitdagend als lonend. ",
+            "p3": "Momenteel wordt CodeLib actief ontwikkeld, waarbij voortdurende verbeteringen en nieuwe functies regelmatig worden toegevoegd. ",
+            "p4": "Bedankt voor uw bezoek aan CodeLib. ",
+            "featuresTitle": "Belangrijkste kenmerken",
+            "features": {
+                "feature1": {
+                    "title": "Organiseer uw codefragmenten",
+                    "description": "Beheer uw fragmenten met een flexibele, op mappen gebaseerde structuur, waardoor u ze gemakkelijk kunt categoriseren en terugvinden."
+                },
+                "feature2": {
+                    "title": "Syntaxisaccentuering",
+                    "description": "Geniet van verbeterde leesbaarheid met syntaxisaccentuering voor verschillende programmeertalen, waardoor het gemakkelijker wordt om uw code te begrijpen en ermee te werken."
+                },
+                "feature3": {
+                    "title": "Gebruiksvriendelijke interface",
+                    "description": "Ervaar een schone en intuïtieve interface die is ontworpen voor eenvoud en efficiëntie, waardoor een soepele gebruikerservaring wordt gegarandeerd."
+                },
+                "feature4": {
+                    "title": "Realtime bewerken",
+                    "description": "Profiteer van de realtime codebewerkings- en opslagfunctionaliteit, zodat u wijzigingen kunt aanbrengen en updates direct kunt zien."
+                },
+                "feature5": {
+                    "title": "Naadloze integratie",
+                    "description": "Integreer CodeLib moeiteloos met uw bestaande workflow en zorg voor een samenhangende en productieve codeeromgeving."
+                },
+                "feature6": {
+                    "title": "Krachtig zoeken",
+                    "description": "Vind snel uw fragmenten met een geavanceerde zoekfunctie die filteren op tags, namen en inhoud ondersteunt."
+                },
+                "feature7": {
+                    "title": "Apparaatsynchronisatie",
+                    "description": "Krijg overal toegang tot uw fragmenten met synchronisatie op meerdere apparaten, zodat u uw code altijd bij u heeft."
+                }
+            }
+        },
+        "faqTitle": "Veelgestelde vragen (FAQ's)",
+        "faq": {
+            "question1": "Wat is CodeLib?",
+            "answer1": "CodeLib is een tool die is ontworpen om ontwikkelaars te helpen hun codefragmenten efficiënt te beheren en te organiseren. ",
+            "question2": "Hoe kan ik aan de slag met CodeLib?",
+            "answer2": "U kunt aan de slag gaan door u aan te melden en uw eerste codefragmenten te maken. ",
+            "question3": "Is CodeLib gratis te gebruiken?",
+            "answer3": "CodeLib is een gratis bron voor iedereen, waarmee in de nabije toekomst geen inkomsten zullen worden gegenereerd. ",
+            "question4": "Waar kan ik meer informatie of ondersteuning vinden?",
+            "answer4": "Bezoek onze documentatiepagina voor meer informatie of ondersteuning of neem rechtstreeks contact met ons op via onze ondersteuningskanalen. "
+        }
+    }
+}

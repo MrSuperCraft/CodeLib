@@ -1,0 +1,253 @@
+{
+    "header": {
+        "main_menu": "Menú principal",
+        "home": "Hogar",
+        "about": "Acerca de",
+        "services": "Servicios",
+        "contact": "Contacto",
+        "get_started": "Empezar",
+        "privacy_policy": "política de privacidad",
+        "terms_and_conditions": "Términos y condiciones",
+        "phone_contact": "Contacto",
+        "brand": {
+            "title": "CódigoLib",
+            "tagline": "Hacer que los fragmentos sean accesibles"
+        }
+    },
+    "footer": {
+        "brand": "CódigoLib",
+        "links": {
+            "contact": "Contacto",
+            "privacy": "política de privacidad",
+            "terms": "Términos de servicio"
+        },
+        "social": {
+            "twitter": "Gorjeo",
+            "linkedin": "LinkedIn"
+        },
+        "copyright": "© 2023 CodeLib. ",
+        "developer": "Itamar Hanan"
+    },
+    "hero": {
+        "welcome": "Bienvenido a CodeLib",
+        "sub": "Su administrador de fragmentos de código de referencia",
+        "cta": "Empezar",
+        "stats": {
+            "snippets": "Fragmentos de código",
+            "users": "Usuarios",
+            "lines": "Líneas de código guardadas"
+        }
+    },
+    "about": {
+        "title": "Acerca de CodeLib",
+        "p1": "En CodeLib, tenemos la misión de hacer que la codificación sea más eficiente y agradable. ",
+        "p2": "Con una interfaz intuitiva y funciones potentes, CodeLib está diseñado para ser su mejor compañero de codificación, ayudándolo a concentrarse en lo que mejor sabe hacer: escribir código excelente.",
+        "learn_more": "Más información",
+        "our_mission": "Nuestra Misión"
+    },
+    "features": {
+        "title": "Características",
+        "feature1": {
+            "title": "Gestión de código",
+            "description": "Administre y organice eficientemente sus fragmentos de código."
+        },
+        "feature2": {
+            "title": "Sincronización en la nube",
+            "description": "Sincroniza tus fragmentos en todos tus dispositivos sin problemas."
+        },
+        "feature3": {
+            "title": "Colaboración mejorada",
+            "description": "Comparte tus fragmentos de código y colabora con tu equipo sin esfuerzo."
+        },
+        "feature4": {
+            "title": "Etiquetas personalizadas",
+            "description": "Etiquete y categorice sus fragmentos para recuperarlos fácilmente."
+        },
+        "feature5": {
+            "title": "Búsqueda avanzada",
+            "description": "Encuentre sus fragmentos rápidamente con nuestra potente función de búsqueda."
+        },
+        "feature6": {
+            "title": "Soporte multiplataforma",
+            "description": "Acceda a sus fragmentos de código desde cualquier dispositivo y en cualquier momento."
+        }
+    },
+    "testimonials": {
+        "title": "Lo que dicen nuestros usuarios",
+        "testimonial1": {
+            "quote": "CodeLib ha revolucionado mi flujo de trabajo de codificación.",
+            "name": "Jane Doe",
+            "position": "Revelador"
+        },
+        "testimonial2": {
+            "quote": "Una herramienta imprescindible para todo programador.",
+            "name": "Juan Smith",
+            "position": "Ingeniero"
+        },
+        "testimonial3": {
+            "quote": "Increíble herramienta para gestionar fragmentos de código de manera eficiente.",
+            "name": "Alicia Johnson",
+            "position": "Arquitecto de software"
+        },
+        "testimonial4": {
+            "quote": "Me encanta la perfecta integración con mi flujo de trabajo.",
+            "name": "bob marrón",
+            "position": "Líder tecnológico"
+        },
+        "testimonial5": {
+            "quote": "Una herramienta esencial para las prácticas modernas de desarrollo.",
+            "name": "Emily Davis",
+            "position": "Desarrollador front-end"
+        },
+        "testimonial6": {
+            "quote": "Fantástico para organizar y compartir código con equipos.",
+            "name": "michael wilson",
+            "position": "Desarrollador back-end"
+        },
+        "testimonial7": {
+            "quote": "La mejor herramienta que he encontrado para la gestión de fragmentos.",
+            "name": "Sara Lee",
+            "position": "Desarrollador Full Stack"
+        },
+        "testimonial8": {
+            "quote": "Fácil de usar y muy eficaz.",
+            "name": "cris martin",
+            "position": "Diseñador UI/UX"
+        },
+        "testimonial9": {
+            "quote": "CodeLib cambia las reglas del juego para la productividad.",
+            "name": "natalia verde",
+            "position": "Gerente de proyecto"
+        },
+        "testimonial10": {
+            "quote": "Interfaz eficiente e intuitiva.",
+            "name": "David Clark",
+            "position": "Ingeniero DevOps"
+        }
+    },
+    "callToAction": {
+        "title": "¿Listo para empezar?",
+        "description": "Únase a CodeLib hoy y optimice su experiencia de codificación con nuestra poderosa herramienta de administración de fragmentos.",
+        "button": "Empezar",
+        "note": "No se requiere tarjeta de crédito. "
+    },
+    "themes": {
+        "toggle_theme": "Alternar tema",
+        "light": "Luz",
+        "dark": "Oscuro",
+        "system": "Sistema"
+    },
+    "get_started": {
+        "title": "CódigoLib",
+        "description": "Organice su código, optimice su flujo de trabajo.",
+        "join_text": "Únase a miles de desarrolladores que ya utilizan CodeLib.",
+        "login": "Acceso",
+        "signup": "Inscribirse",
+        "email_placeholder": "juan.doe@ejemplo.com",
+        "password_placeholder": "******",
+        "or": "O",
+        "github_signin": "Iniciar sesión con GitHub",
+        "google_signin": "Iniciar sesión con Google",
+        "toggle_login_signup": {
+            "signup": "¿Necesitas una cuenta? ",
+            "login": "¿Ya tienes una cuenta? "
+        }
+    },
+    "LocaleSwitcher": {
+        "label": "Cambiar idioma",
+        "locale": "{locale, select, de {Deutsch} en {English} fr {Français} es {Español} it {Italiano} pt {Português} nl {Nederlands} ru {Русский} zh {中文} ja {日本語} ko {한국어} other {Langue inconnue}}"
+    },
+    "TermsOfService": "<h2><strong>Términos y condiciones</strong></h2> <p>¡Bienvenido a CodeLib!</p> <p>Estos términos y condiciones describen las reglas y regulaciones para el uso del sitio web de CodeLib, ubicado <a href=\"https://CodeLib.vercel.app\">aquí</a>.</p> <p>Al acceder a este sitio web asumimos que acepta estos términos y condiciones. </p> <p>La siguiente terminología se aplica a estos Términos y condiciones, Declaración de privacidad y Aviso de exención de responsabilidad y a todos los Acuerdos: \"Cliente\", \"Usted\" y \"Su\" se refieren a usted, la persona que inicia sesión en este sitio web y cumple con los términos y condiciones de la Compañía. </p> <h3><strong>Galletas</strong></h3> <p>Empleamos el uso de cookies. </p> <p>La mayoría de los sitios web interactivos utilizan cookies para permitirnos recuperar los detalles del usuario en cada visita. </p> <h3><strong>Licencia</strong></h3> <p>A menos que se indique lo contrario, CodeLib y/o sus licenciantes poseen los derechos de propiedad intelectual de todo el material de CodeLib. </p> <p>No debes:</p><ul><li>Volver a publicar material de CodeLib</li><li>Vender, alquilar o sublicenciar material de CodeLib</li><li>Reproducir, duplicar o copiar material de CodeLib</li><li>Redistribuir contenido de CodeLib</li></ul> <p>Partes de este sitio web ofrecen a los usuarios la oportunidad de publicar e intercambiar opiniones e información en determinadas áreas del sitio web. </p> <p>CodeLib se reserva el derecho de monitorear todos los Comentarios y eliminar cualquier Comentario que pueda considerarse inapropiado, ofensivo o que infrinja estos Términos y condiciones.</p> <p>Usted garantiza y declara que:</p><ul><li>Tiene derecho a publicar Comentarios en nuestro sitio web y tiene todas las licencias y consentimientos necesarios para hacerlo;</li><li>Los Comentarios no invaden ningún derecho de propiedad intelectual, incluidos, entre otros, derechos de autor, patentes o marcas comerciales de terceros;</li><li>Los Comentarios no contienen ningún material difamatorio, calumnioso, ofensivo, indecente o ilegal que sea una invasión de la privacidad.</li><li>Los Comentarios no se utilizarán para solicitar o promover negocios o costumbres o presentar actividades comerciales o actividades ilegales.</li></ul> <p>Por la presente, otorga a CodeLib una licencia no exclusiva para usar, reproducir, editar y autorizar a otros a usar, reproducir y editar cualquiera de sus Comentarios en todas y cada una de las formas, formatos o medios.</p> <h3><strong>Hipervínculos a nuestro contenido</strong></h3> <p>Las siguientes organizaciones pueden vincularse a nuestro sitio web sin aprobación previa por escrito:</p><ul><li>Agencias gubernamentales;</li><li>Motores de búsqueda;</li><li>Organizaciones de noticias;</li><li>Los distribuidores de directorios en línea pueden vincularse a nuestro sitio web de la misma manera que lo hacen a los sitios web de otras empresas enumeradas; </li><li>Empresas acreditadas en todo el sistema, excepto aquellas que soliciten servicios a organizaciones sin fines de lucro, centros comerciales benéficos y grupos de recaudación de fondos benéficos que no pueden tener hipervínculos a nuestro sitio web.</li></ul> <p>Estas organizaciones pueden vincularse a nuestra página de inicio, a publicaciones u otra información del sitio web siempre que el vínculo: (a) no sea de ninguna manera engañoso; </p> <p>Podemos considerar y aprobar otras solicitudes de enlaces de los siguientes tipos de organizaciones:</p><ul><li>fuentes de información comúnmente conocidas sobre consumidores y/o empresas;</li><li>sitios comunitarios punto.com;</li><li>asociaciones u otros grupos que representan organizaciones benéficas;</li><li>distribuidores de directorios en línea;</li><li>portales de internet;</li><li>firmas de contabilidad, derecho y consultoría; </li><li>instituciones educativas y asociaciones comerciales.</li></ul> <p>Aprobaremos las solicitudes de enlace de estas organizaciones si decidimos que: (a) el enlace no nos hará vernos desfavorablemente a nosotros mismos o a nuestras empresas acreditadas; </p> <p>Estas organizaciones pueden vincularse a nuestra página de inicio siempre que el vínculo: (a) no sea de ninguna manera engañoso; </p> <p>Si usted es una de las organizaciones enumeradas en el párrafo 2 anterior y está interesado en vincularse a nuestro sitio web, debe informarnos enviando un correo electrónico a CodeLib. </p> <p>Las organizaciones aprobadas pueden hacer hipervínculos a nuestro sitio web de la siguiente manera:</p><ul><li>Por el uso de nuestro nombre corporativo; </li><li>Mediante el uso del localizador uniforme de recursos al que se vincula; </li><li>Mediante el uso de cualquier otra descripción de nuestro sitio web al que se vincula que tenga sentido dentro del contexto y formato del contenido del sitio de la parte vinculadora.</li></ul> <p>No se permitirá el uso del logotipo de CodeLib u otras ilustraciones para vincular sin un acuerdo de licencia de marca registrada.</p> <h3><strong>marcos flotantes</strong></h3> <p>Sin aprobación previa y permiso por escrito, no puede crear marcos alrededor de nuestras páginas web que alteren de alguna manera la presentación visual o la apariencia de nuestro sitio web.</p> <h3><strong>Responsabilidad del contenido</strong></h3> <p>No seremos responsables de ningún contenido que aparezca en su sitio web. </p> <h3><strong>Tu privacidad</strong></h3> <p>Por favor lea la Política de Privacidad, encontrada <a href=\"https://CodeLib.vercel.app/privacy-policy\">aquí</a>.</p> <h3><strong>Reserva de Derechos</strong></h3> <p>Nos reservamos el derecho de solicitarle que elimine todos los enlaces o cualquier enlace en particular a nuestro sitio web. </p> <h3><strong>Eliminación de enlaces de nuestro sitio web</strong></h3> <p>Si encuentra algún enlace en nuestro sitio web que sea ofensivo por cualquier motivo, puede contactarnos e informarnos en cualquier momento. </p> <p>No garantizamos que la información de este sitio web sea correcta, no garantizamos su integridad o exactitud; </p> <h3><strong>Descargo de responsabilidad</strong></h3> <p>En la máxima medida permitida por la ley aplicable, excluimos todas las representaciones, garantías y condiciones relacionadas con nuestro sitio web y el uso de este sitio web. </p><ul><li>limitar o excluir nuestra o su responsabilidad por muerte o lesiones personales;</li><li>limitar o excluir nuestra o su responsabilidad por fraude o tergiversación fraudulenta;</li><li>limitar cualquiera de nuestras responsabilidades o las suyas de cualquier forma que no esté permitida por la ley aplicable; </li><li>excluir cualquiera de nuestras responsabilidades o las suyas que no puedan estar excluidas según la ley aplicable.</li></ul><p>Las limitaciones y prohibiciones de responsabilidad establecidas en esta Sección y en otras partes de este descargo de responsabilidad: (a) están sujetas al párrafo anterior; </p><p>Siempre que el sitio web y la información y los servicios del sitio web se proporcionen de forma gratuita, no seremos responsables de ninguna pérdida o daño de cualquier naturaleza.</p>",
+    "services-page": {
+        "hero": {
+            "title": "Descubre la Magia",
+            "subtitle": "Vea nuestros servicios que mejoran el mundo de la codificación"
+        },
+        "services": {
+            "s1": {
+                "title": "Métodos de búsqueda avanzada",
+                "description": "Utilice potentes capacidades de búsqueda para localizar rápidamente sus fragmentos de código. ",
+                "details": "Busque por etiquetas, categorías y fragmentos de contenido. "
+            },
+            "s2": {
+                "title": "Panel interactivo",
+                "description": "Acceda a un panel dinámico que proporciona una descripción general de sus fragmentos de código y actividades. ",
+                "details": "Obtenga información en tiempo real sobre sus fragmentos, incluidas estadísticas de uso y actividad reciente. "
+            },
+            "s3": {
+                "title": "Configuraciones integrales",
+                "description": "Personaliza tu experiencia con una amplia gama de configuraciones. ",
+                "details": "Controle cómo se presentan los fragmentos, configure notificaciones de actualizaciones y administre la configuración de la cuenta con facilidad. "
+            },
+            "s4": {
+                "title": "Sistema de autenticación robusto",
+                "description": "Experimente un sistema de autenticación seguro y eficiente. ",
+                "details": "Utilice varios métodos de autenticación, administre sus credenciales de forma segura y disfrute de una experiencia de inicio de sesión fluida. "
+            },
+            "s5": {
+                "title": "Experiencia de usuario mejorada",
+                "description": "Benefíciese de una experiencia de usuario cuidadosamente diseñada que prioriza la facilidad de uso y la eficiencia. ",
+                "details": "Nuestra plataforma está diseñada pensando en el usuario y presenta una navegación clara, diseños responsivos e interacciones fáciles de usar. "
+            },
+            "s6": {
+                "title": "Organización y gestión de fragmentos",
+                "description": "Administre y organice eficientemente sus fragmentos con un sistema de carpetas estructurado. ",
+                "details": "Cree carpetas y subcarpetas, aplique etiquetas personalizadas y utilice filtros para localizar y administrar rápidamente sus fragmentos. "
+            }
+        }
+    },
+    "about-page": {
+        "about": {
+            "heroTitle": "Descubra CodeLib",
+            "heroSubtitle": "Explore cómo CodeLib puede transformar la gestión de su código.",
+            "heroButton": "Más información",
+            "storyTitle": "La historia detrás de CodeLib",
+            "p1": "CodeLib nació del deseo de crear una herramienta poderosa pero fácil de usar para administrar fragmentos de código. ",
+            "p2": "El viaje desde la idea hasta la implementación ha sido desafiante y gratificante. ",
+            "p3": "Actualmente, CodeLib se encuentra en desarrollo activo, con mejoras continuas y nuevas funciones que se agregan periódicamente. ",
+            "p4": "Gracias por visitar CodeLib. ",
+            "featuresTitle": "Características clave",
+            "features": {
+                "feature1": {
+                    "title": "Organiza tus fragmentos de código",
+                    "description": "Administre sus fragmentos con una estructura flexible basada en carpetas, lo que permite una fácil categorización y recuperación."
+                },
+                "feature2": {
+                    "title": "Resaltado de sintaxis",
+                    "description": "Disfrute de una legibilidad mejorada con resaltado de sintaxis para varios lenguajes de programación, lo que facilita la comprensión y el trabajo con su código."
+                },
+                "feature3": {
+                    "title": "Interfaz fácil de usar",
+                    "description": "Experimente una interfaz limpia e intuitiva diseñada para brindar simplicidad y eficiencia, lo que garantiza una experiencia de usuario fluida."
+                },
+                "feature4": {
+                    "title": "Edición en tiempo real",
+                    "description": "Benefíciese de la funcionalidad de edición y guardado de código en tiempo real, lo que le permitirá realizar cambios y ver actualizaciones al instante."
+                },
+                "feature5": {
+                    "title": "Integración perfecta",
+                    "description": "Integre CodeLib con su flujo de trabajo existente sin esfuerzo, garantizando un entorno de codificación cohesivo y productivo."
+                },
+                "feature6": {
+                    "title": "Búsqueda poderosa",
+                    "description": "Encuentre rápidamente sus fragmentos con una función de búsqueda avanzada que admite el filtrado por etiquetas, nombres y contenido."
+                },
+                "feature7": {
+                    "title": "Sincronización de dispositivos",
+                    "description": "Acceda a sus fragmentos desde cualquier lugar con sincronización multidispositivo, asegurándose de tener su código con usted en todo momento."
+                }
+            }
+        },
+        "faqTitle": "Preguntas frecuentes (FAQ)",
+        "faq": {
+            "question1": "¿Qué es CodeLib?",
+            "answer1": "CodeLib es una herramienta diseñada para ayudar a los desarrolladores a administrar y organizar sus fragmentos de código de manera eficiente. ",
+            "question2": "¿Cómo puedo empezar con CodeLib?",
+            "answer2": "Puede comenzar registrándose y creando sus primeros fragmentos de código. ",
+            "question3": "¿CodeLib es de uso gratuito?",
+            "answer3": "CodeLib es un recurso gratuito para todos, que no se monetizará en un futuro próximo. ",
+            "question4": "¿Dónde puedo encontrar más información o soporte?",
+            "answer4": "Para obtener más información o soporte, visite nuestra página de documentación o contáctenos directamente a través de nuestros canales de soporte. "
+        }
+    }
+}
