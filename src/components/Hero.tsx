@@ -6,6 +6,7 @@ import Image from 'next/image';
 import { useRef, useState } from 'react';
 import HeroBackground from '@/app/../../public/hero.svg';
 import { useTranslations } from 'next-intl';
+import Link from 'next/link';
 
 
 const HeroSection = () => {
@@ -51,7 +52,7 @@ const HeroSection = () => {
                 >
                     <h1 className="text-4xl md:text-5xl lg:text-6xl font-black mb-4">{t('hero.welcome')}</h1>
                     <p className="text-base md:text-lg lg:text-2xl font-bold mb-6">{t('hero.sub')}</p>
-                    <Button variant="default" className='text-lg shadow-lg font-bold'>{t('hero.cta')}</Button>
+                    <Link href={`/get-started`}><Button variant="default" className='text-lg shadow-lg font-bold'>{t('hero.cta')}</Button></Link>
                 </motion.div>
 
                 {/* Animated Statistics Boxes */}

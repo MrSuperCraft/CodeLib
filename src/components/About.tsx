@@ -2,6 +2,7 @@
 
 import { motion } from 'framer-motion';
 import { useTranslations } from 'next-intl';
+import Link from 'next/link';
 
 const AboutSection = () => {
     const t = useTranslations('about');
@@ -40,12 +41,16 @@ const AboutSection = () => {
                     animate={{ opacity: 1, scale: 1 }}
                     transition={{ duration: 0.5, delay: 0.6 }}
                 >
-                    <button className="bg-blue-500 text-white px-4 py-2 text-sm md:px-6 md:py-3 md:text-lg rounded-lg shadow-lg hover:bg-blue-600 dark:hover:bg-blue-400 transition-colors">
-                        {t('learn_more')}
-                    </button>
-                    <button className="bg-transparent border border-black text-black dark:border-white dark:text-white px-4 py-2 text-sm md:px-6 md:py-3 md:text-lg rounded-lg shadow-lg hover:bg-black hover:text-white dark:hover:bg-white dark:hover:text-black transition-colors">
-                        {t('our_mission')}
-                    </button>
+                    <Link href={`/about`}>
+                        <button className="bg-blue-500 text-white px-4 py-2 text-sm md:px-6 md:py-3 md:text-lg rounded-lg shadow-lg hover:bg-blue-600 dark:hover:bg-blue-400 transition-colors">
+                            {t('learn_more')}
+                        </button>
+                    </Link>
+                    <Link href={`/about`}>
+                        <button className="bg-transparent border border-black text-black dark:border-white dark:text-white px-4 py-2 text-sm md:px-6 md:py-3 md:text-lg rounded-lg shadow-lg hover:bg-black hover:text-white dark:hover:bg-white dark:hover:text-black transition-colors">
+                            {t('our_mission')}
+                        </button>
+                    </Link>
                 </motion.div>
             </div>
         </section>

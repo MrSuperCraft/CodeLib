@@ -1,8 +1,46 @@
 import Footer from '@/components/Footer'
 import Header from '@/components/Header'
-import Link from 'next/link'
 import React from 'react'
 import "./styles.css"
+
+import { Metadata } from 'next';
+
+export const metadata: Metadata = {
+    title: 'Privacy Policy - CodeLib',
+    description: 'Read the privacy policy for CodeLib. Learn about our data collection, usage, and storage policies to protect your information.',
+    keywords: ['Privacy Policy', 'CodeLib', 'Data Collection', 'Data Usage', 'Cookies', 'Personal Data'],
+    authors: [{ name: 'CodeLib', url: 'https://codelib-mrsupercraft.vercel.app' }],
+    openGraph: {
+        title: 'Privacy Policy - CodeLib',
+        description: 'CodeLib Privacy Policy detailing how we collect, use, and protect your personal information when using our services.',
+        url: 'https://codelib-mrsupercraft.vercel.app/privacy-policy',
+        siteName: 'CodeLib',
+        images: [
+            {
+                url: 'https://codelib-mrsupercraft.vercel.app/codelib-opengraph.png',
+                alt: 'CodeLib Logo',
+            },
+        ],
+        type: 'article',
+    },
+    twitter: {
+        card: 'summary_large_image',
+        title: 'Privacy Policy - CodeLib',
+        description: 'Learn about the privacy policies of CodeLib. Discover how your data is handled responsibly and securely.',
+        images: ['https://codelib-mrsupercraft.vercel.app/codelib-opengraph.png'],
+    },
+    robots: {
+        index: true,
+        follow: true,
+        nocache: true,
+    },
+    viewport: 'width=device-width, initial-scale=1.0',
+    alternates: {
+        canonical: 'https://codelib-mrsupercraft.vercel.app/privacy-policy',
+    },
+};
+
+
 
 
 const PrivacyPolicyPage = () => {

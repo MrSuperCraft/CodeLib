@@ -1,68 +1,47 @@
-"use client";
+import React from 'react';
+import { Metadata } from 'next';
+import NewVerificationPage from './NewVerificationPage';
 
-import { useSearchParams } from "next/navigation";
-import { useCallback, useEffect, useState } from "react";
-import { BeatLoader } from "react-spinners";
-
-import { newVerification } from "@/actions/new-verification";
-import { FormError } from "@/components/form/form-error";
-import { FormSuccess } from "@/components/form/form-success";
-import { Card } from "@/components/ui/card";
-
-export const NewVerificationForm = () => {
-    const [error, setError] = useState<string | undefined>();
-    const [success, setSuccess] = useState<string | undefined>();
-
-    const searchParams = useSearchParams();
-
-    const token = searchParams.get("token");
-
-    const onSubmit = useCallback(() => {
-        if (success || error) return;
-
-        if (!token) {
-            setError("Missing token!");
-            return;
-        }
-
-        newVerification(token)
-            .then((data) => {
-                setSuccess(data.success);
-                setError(data.error);
-            })
-            .catch(() => {
-                setError("Something went wrong!");
-            });
-    }, [token, success, error]);
-
-    useEffect(() => {
-        onSubmit();
-    }, [onSubmit]);
-
-    return (
-        <Card>
-            <div>
-                <div className="flex items-center w-full justify-center">
-                    {!success && !error && <BeatLoader />}
-                    <FormSuccess message={success} />
-                    {!success && <FormError message={error} />}
-                </div>
-            </div>
-        </Card>
-
-    );
+export const metadata: Metadata = {
+    title: 'Verify Your Account | CodeLib',
+    description: 'Verify your account with the link sent to your email to start using CodeLib.',
+    keywords: ['Account Verification', 'Email Verification', 'CodeLib'],
+    authors: [{ name: 'CodeLib', url: 'https://codelib-mrsupercraft.vercel.app' }],
+    openGraph: {
+        title: 'Verify Your Account | CodeLib',
+        description: 'Click the verification link sent to your email to activate your account on CodeLib.',
+        url: 'https://codelib-mrsupercraft.vercel.app/verify-account',
+        siteName: 'CodeLib',
+        images: [
+            {
+                url: 'https://codelib-mrsupercraft.vercel.app/codelib-opengraph.png',
+                alt: 'CodeLib Logo',
+            },
+        ],
+        type: 'website',
+    },
+    twitter: {
+        card: 'summary_large_image',
+        title: 'Verify Your Account | CodeLib',
+        description: 'Activate your CodeLib account by verifying your email.',
+        images: ['https://codelib-mrsupercraft.vercel.app/codelib-opengraph.png'],
+    },
+    robots: {
+        index: false,  // This ensures the page is not indexed by search engines.
+        follow: false, // Also prevents search engines from following links on this page.
+    },
+    viewport: 'width=device-width, initial-scale=1.0',
+    alternates: {
+        canonical: 'https://codelib-mrsupercraft.vercel.app/verify-account',
+    },
 };
 
-
-const page = () => {
+const Page = () => {
     return (
-        <>
-            <div className="h-screen w-full flex justify-center items-center">
-                <NewVerificationForm />
-
-            </div>
-        </>
-    )
+        <div>
+            <NewVerificationPage />
+        </div>
+    );
 }
 
-export default page
+export default Page;

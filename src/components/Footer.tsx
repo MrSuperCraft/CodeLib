@@ -1,20 +1,10 @@
 'use client';
 
 import Link from 'next/link';
-import { useTranslations, useLocale } from 'next-intl';
+import { useTranslations } from 'next-intl';
 import { FolderCodeIcon } from 'lucide-react';
 import { FaLinkedin, FaTwitter } from 'react-icons/fa';
 import { IconContext } from 'react-icons';
-import {
-    Select,
-    SelectContent,
-    SelectItem,
-    SelectTrigger,
-    SelectValue,
-    SelectGroup
-} from "@/components/ui/select";
-import { useRouter } from 'next/navigation';
-import { useState } from 'react';
 import LocaleSwitcher from './LocaleSwitcher';
 
 const Footer = () => {
@@ -37,13 +27,13 @@ const Footer = () => {
 
                 {/* Important Links */}
                 <div className="flex flex-col md:flex-row md:space-x-8 mb-6 md:mb-0 text-center md:text-left">
-                    <Link href="/contact" className="mb-2 md:mb-0 hover:text-blue-500 dark:hover:text-blue-400">
+                    <Link href={`/contact`} className="mb-2 md:mb-0 hover:text-blue-500 dark:hover:text-blue-400">
                         {t('footer.links.contact')}
                     </Link>
-                    <Link href="/privacy" className="mb-2 md:mb-0 hover:text-blue-500 dark:hover:text-blue-400">
+                    <Link href={`/privacy-policy`} className="mb-2 md:mb-0 hover:text-blue-500 dark:hover:text-blue-400">
                         {t('footer.links.privacy')}
                     </Link>
-                    <Link href="/terms" className="mb-2 md:mb-0 hover:text-blue-500 dark:hover:text-blue-400">
+                    <Link href={`/terms-of-service`} className="mb-2 md:mb-0 hover:text-blue-500 dark:hover:text-blue-400">
                         {t('footer.links.terms')}
                     </Link>
                 </div>

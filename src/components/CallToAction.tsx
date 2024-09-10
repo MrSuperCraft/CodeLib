@@ -3,6 +3,7 @@
 import { motion } from 'framer-motion';
 import { Button } from '@/components/ui/button';
 import { useTranslations } from 'next-intl'; // Import the hook
+import Link from 'next/link';
 
 const CallToActionSection = () => {
     const t = useTranslations('callToAction'); // Get the translation for the 'callToAction' namespace
@@ -21,9 +22,11 @@ const CallToActionSection = () => {
                 <p className="text-lg mb-6 md:text-xl">
                     {t('description')}
                 </p>
-                <Button variant="default" className="transition-transform transform hover:scale-105">
-                    {t('button')}
-                </Button>
+                <Link href={'/get-started'}>
+                    <Button variant="default" className="transition-transform transform hover:scale-105">
+                        {t('button')}
+                    </Button>
+                </Link>
                 <p className="mt-6 text-sm text-gray-500 dark:text-gray-300">
                     {t('note')}
                 </p>

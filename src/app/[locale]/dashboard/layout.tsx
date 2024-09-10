@@ -1,64 +1,35 @@
-'use client'
+import React from 'react';
+import { Metadata } from 'next';
+import RootLayout from './RootLayout';
 
+export const metadata: Metadata = {
+    title: 'Dashboard | CodeLib',
+    description: 'Your dashboard on CodeLib',
+    openGraph: {
+        title: 'Dashboard | CodeLib',
+        description: 'Manage your projects and snippets from your dashboard on CodeLib.',
+        url: 'https://codelib-mrsupercraft.vercel.app/dashboard',
+        siteName: 'CodeLib',
+        images: [
+            {
+                url: 'https://codelib-mrsupercraft.vercel.app/codelib-opengraph.png',
+                alt: 'CodeLib Logo',
+            },
+        ],
+        type: 'website',
+    },
+    twitter: {
+        card: 'summary_large_image',
+        title: 'Dashboard | CodeLib',
+        description: 'Manage your projects and snippets from your dashboard on CodeLib.',
+        images: ['https://codelib-mrsupercraft.vercel.app/codelib-opengraph.png'],
+    },
+};
 
-import { ThemeProvider } from "@/components/ThemeProvider";
-import { SessionProvider, useSession } from "next-auth/react";
-import Sidebar from "@/components/dashboard/Sidebar";
-import { useRouter } from "next/navigation";
-import { DashboardHeader } from "@/components/dashboard/DashboardHeader";
-import useSizingStore from "../../store/SizingStore";
-import { cn } from "@/lib/utils";
-import { BeatLoader } from "react-spinners";
-import { Toaster } from "sonner";
-
-export default function RootLayout({
-    children,
-}: Readonly<{
-    children: React.ReactNode;
-}>) {
-
-    const { data: session, status } = useSession();
-    const sidebarState = useSizingStore();
-    const router = useRouter();
-
-    if (status === "loading") {
-        return (
-            <div className="flex gap-4 flex-col items-center justify-center w-full max-h-screen z-[99999] bg-white">
-                <span className="text-2xl font-black">Loading</span>
-                <BeatLoader />
-            </div>
-        );
-    }
-
-
-    if (!session) {
-        router.push("/get-started");
-        return null;
-    }
-
-
+export default function Layout({ children }: { children: React.ReactNode }) {
     return (
-        <html lang="en" suppressHydrationWarning>
-            <SessionProvider session={session}>
-                <ThemeProvider
-                    attribute="class"
-                    defaultTheme="system"
-                    enableSystem
-                    disableTransitionOnChange
-                >
-
-                    <body>
-                        <div className="min-h-screen flex overflow-auto">
-                            <Sidebar session={session} />
-                            <main className={cn(`flex-1 p-2 transition-all duration-300`, sidebarState.isCollapsed ? 'md:pl-32' : 'md:pl-72')}>
-                                <DashboardHeader username={session?.user?.name || 'User'} email={session?.user?.email || 'user@example.com'} />
-                                {children}
-                            </main>
-                        </div>
-                        <Toaster />
-                    </body>
-                </ThemeProvider>
-            </SessionProvider>
-        </html>
+        <RootLayout>
+            {children}
+        </RootLayout>
     );
 }
