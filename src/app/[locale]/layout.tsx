@@ -40,7 +40,34 @@ export const metadata: Metadata = {
     ],
     creator: "@ItamarHanan"
   },
+  icons: {
+    icon: [
+      {
+        url: "https://codelib-mrsupercraft.vercel.app/favicon.ico",
+        sizes: "32x32",
+        type: "image/x-icon"
+      },
+      {
+        url: "https://codelib-mrsupercraft.vercel.app/icon-192x192.png",
+        sizes: "192x192",
+        type: "image/png"
+      },
+      {
+        url: "https://codelib-mrsupercraft.vercel.app/icon-512x512.png",
+        sizes: "512x512",
+        type: "image/png"
+      }
+    ],
+    apple: [
+      {
+        url: "https://codelib-mrsupercraft.vercel.app/apple-touch-icon.png",
+        sizes: "180x180",
+        type: "image/png"
+      }
+    ],
+  },
 };
+
 
 
 export default async function RootLayout({
