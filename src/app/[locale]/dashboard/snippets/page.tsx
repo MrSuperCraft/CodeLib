@@ -5,9 +5,9 @@ import Folder from '@/components/snippets/Folder';
 import File from '@/components/snippets/File';
 import CodeEditor from '@/components/snippets/CodeHighlighter';
 import { toast } from 'sonner'; // Import Sonner for notifications
-import { SiJavascript, SiPython, SiHtml5, SiCss3, SiCplusplus, SiCsharp, SiLess, SiSass, SiTypescript } from 'react-icons/si';
+import { SiJavascript, SiPython, SiHtml5, SiCss3, SiCplusplus, SiLess, SiSass, SiTypescript } from 'react-icons/si';
 import { FaMarkdown, FaFile, FaJava, FaFileCode } from 'react-icons/fa';
-import { TbFileTypeXml } from 'react-icons/tb';
+import { TbBrandCSharp, TbFileTypeXml } from 'react-icons/tb';
 import { saveSnippetsToRedis } from '@/actions/snippets'; // Import utility functions
 import { useSession } from 'next-auth/react';
 import { FadeLoader } from 'react-spinners';
@@ -39,7 +39,7 @@ const fileIcons: { [key: string]: React.ReactNode } = {
     xml: <TbFileTypeXml />,
     less: <SiLess />,
     sass: <SiSass />,
-    csharp: <SiCsharp />,
+    csharp: <TbBrandCSharp />,
     // Add more mappings as needed
 };
 
