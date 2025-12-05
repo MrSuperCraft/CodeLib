@@ -6,13 +6,13 @@ import { useSnippetStore } from '@/app/store/SnippetStore';
 import { toast } from 'sonner';
 import { useSession } from 'next-auth/react';
 import {
-    SiJavascript, SiPython, SiHtml5, SiCss3, SiCplusplus, SiCsharp, SiLess, SiSass, SiTypescript
+    SiJavascript, SiPython, SiHtml5, SiCss3, SiCplusplus, SiLess, SiSass, SiTypescript
 } from 'react-icons/si';
 import {
     FaMarkdown, FaFile, FaJava, FaFileCode
 } from 'react-icons/fa';
 import {
-    TbFileTypeXml, TbFileTypeJsx, TbFileTypeTsx
+    TbFileTypeXml, TbFileTypeJsx, TbFileTypeTsx, TbBrandCSharp
 } from 'react-icons/tb';
 
 const fileIcons: { [key: string]: { icon: React.ReactNode, language: string } } = {
@@ -33,7 +33,7 @@ const fileIcons: { [key: string]: { icon: React.ReactNode, language: string } } 
     xml: { icon: <TbFileTypeXml />, language: 'XML' },
     less: { icon: <SiLess />, language: 'Less' },
     sass: { icon: <SiSass />, language: 'Sass' },
-    csharp: { icon: <SiCsharp />, language: 'C#' },
+    csharp: { icon: <TbBrandCSharp />, language: 'C#' },
 };
 
 interface Snippet {
