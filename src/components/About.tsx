@@ -42,7 +42,7 @@ const AboutSection = () => {
                     transition={{ duration: 0.5, delay: 0.6 }}
                 >
                     <Link href={`/about`}>
-                        <button className="bg-blue-500 text-white px-4 py-2 text-sm md:px-6 md:py-3 md:text-lg rounded-lg shadow-lg hover:bg-blue-600 dark:hover:bg-blue-400 transition-colors">
+                        <button className="bg-blue-700 text-white px-4 py-2 text-sm md:px-6 md:py-3 md:text-lg rounded-lg shadow-lg hover:bg-blue-600 dark:hover:bg-blue-400 transition-colors">
                             {t('learn_more')}
                         </button>
                     </Link>

@@ -27,7 +27,7 @@ const CallToActionSection = () => {
                         {t('button')}
                     </Button>
                 </Link>
-                <p className="mt-6 text-sm text-gray-500 dark:text-gray-300">
+                <p className="mt-6 text-sm text-gray-700 dark:text-gray-300">
                     {t('note')}
                 </p>
             </motion.div>

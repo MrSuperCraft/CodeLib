@@ -8,7 +8,7 @@ import { auth } from '@/app/auth';
 import { NextIntlClientProvider } from 'next-intl';
 import { getMessages } from 'next-intl/server';
 import { SpeedInsights } from "@vercel/speed-insights/next"
-
+import { Analytics } from "@vercel/analytics/react"
 
 const figtree = Figtree({ subsets: ["latin"], display: "swap", weight: ["400", "500", "600", "700", "800", "900"] });
 
@@ -89,6 +89,7 @@ export default async function RootLayout({
 
   return (
     <html lang={locale} suppressHydrationWarning>
+      <meta name="google-site-verification" content={process.env.GOOGLE_SITE_VERIFICATION_CODE} />
       <SessionProvider session={session}>
         <ThemeProvider
           attribute="class"
@@ -104,6 +105,7 @@ export default async function RootLayout({
         </ThemeProvider>
       </SessionProvider>
       <SpeedInsights />
+      <Analytics />
     </html >
   );
 }
