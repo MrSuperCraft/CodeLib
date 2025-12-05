@@ -29,6 +29,9 @@ importers:
       '@codemirror/lang-json':
         specifier: ^6.0.1
         version: 6.0.2
+      '@codemirror/lang-less':
+        specifier: ^6.0.2
+        version: 6.0.2
       '@codemirror/lang-lezer':
         specifier: ^6.0.1
         version: 6.0.2
